@@ -1,0 +1,215 @@
+Súd:                                  Okresný súd Trenčín
+  Spisová značka:                       2T/124/2012
+  Identifikačné číslo súdneho spisu:    3112011610
+  Dátum vydania rozhodnutia:            06.09.2013
+  Meno a priezvisko sudcu, VSÚ:         JUDr. Beáta Schmidtová
+  ECLI:                                 ECLI:SK:OSTN:2013:3112011610.2
+  Oblasti právnej úpravy:               Trestné právo - Majetok
+                                        Trestné právo - Majetok
+  Povaha rozhodnutia:                   Potvrdené
+
+
+	ROZSUDOK V MENE SLOVENSKEJ REPUBLIKY
+
+	Okresný súd Trenčín na hlavnom pojednávaní konanom dňa 06.09.2013 v Trenčíne samosudkyňou
+	JUDr. Beátou Schmidtovou takto
+
+	rozhodol:
+
+
+	r o z h o d o l :
+
+	Obžalovaný
+	L. O., nar. XX.XX.XXXX v Ilave, trvale bytom Dubnica nad Váhom, U. mieru č. XXX/X
+
+	sa podľa § 285 písm. c) Tr. poriadku oslobodzuje spod obžaloby pre prečin poškodenia a zneužitia
+	záznamu na nosiči informácií podľa § 247 ods. 1 písmeno d) Tr. zákona a prečin poškodzovania
+	cudzích práv podľa § 376 Tr. zákona, ktorého sa mal dopustiť tak, že
+
+	doposiaľ nezisteným spôsobom získal neoprávnený prístup k užívateľským kontám, a to “sonamon“
+	patriace Soni M. a “gispawn“ patriace poškodenému B. E., ktoré mali vytvorené na internetovom portály
+	www.azet.sk <http://www.azet.sk> na stránke www.pokec.sk <http://www.pokec.sk>, pričom registrácia
+	prebehla u poškodenej Soni M. na nicku “sonamon“ dňa 26.01.2006 z IP adresy 213.151.217.133 a u
+	poškodeného B. E. na nicku “gispawn“15.10.2004 z IP adresy XXX.XXX.XXX.XX, do ktorých následne
+	v období od 19.05.2009 do 22.05.2009 prihlasoval z IP adries, a to konkrétne na užívateľské konto
+	“sonamon“ dňa 19.05.2009 v čase 21.06 h z IP adresy XX.XXX.XXX.XXX, dňa 20.05.2009 v čase 00.34
+	h z IP adresy XX.XXX.XXX.XXX, dňa 20.05.2009 v čase o 01.30 h z IP adresy XX.XXX.XXX.XXX, dňa
+	20.05.2009 v čase o 01.54 h z IP adresy XX.XXX.XXX.XXX, dňa 20.05.2009 v čase o 04.36 h z IP
+	adresy XX.XXX.XXX.XXX, dňa 21.05.2009 v čase o 21.37 h z IP adresy XX.XXX.XX.XXX, dňa
+	21.05.2009 v čase o 21.38 h z IP adresy XX.XXX.XX.XXX, dňa 22.05.2009 v čase o 3.53 h z IP adresy
+	XX.XX.XXX.XXX, dňa 22.05.2009 v čase o 21.44 h z IP adresy XX.XX.XXX.X, dňa 22.05.2009 v čase o
+	21.47 h z IP adresy XX.XX.XXX.X, dňa 22.05.2009 v čase o 21.50 h z IP adresy XX.XX.XXXX.X, dňa
+	22.05.2009 v čase o 21.51 h z IP adresy XX.XX.XXX.X a na užívateľské konto “gispawn“ dňa
+	21.05.2009 v čase o 19.38 h z IP adresy XX.XXX.X.XXX, dňa 21.05.2009 v čase o 22.07 h z IP adresy
+	XX.XX.XXX.XXX, dňa 22.05.2009 v čase o 01.34 h z IP adresy XX.XX.XXX.XXX, dňa 22.05.2009 v
+	čase o 21.56 h z IP adresy XX.XX.XXX.X, dňa 22.05.2009 v čase o 22.06 h z IP adresy XX.XX.XXX.X,
+	kde po takomto prihlásení získal neoprávnene prístup k počítačovým dátam uchovávaných v osobných
+	profiloch oboch poškodených, pričom zmenil heslá do obidvoch užívateľských kont “sonamon“ a
+	“gispawn“ a z tohto dôvodu sa poškodená A. M. od 19.05.2009 nemohla prihlásiť na svoje konto
+	“sonamon“ a to ani po opakovaných pokusoch, pričom L. O. v mene A. M. rozposielal jej známym rôzne
+	emaily, v ktorých uviedol, že ukončuje spoluprácu so zákazníkmi a aby jej priatelia už na toto konto
+	nepísali, a taktiež ani poškodený B. E. sa od 21.05.2009 nemohol prihlásiť na svoje konto “gispawn“ a
+	to ani po opakovaných pokusoch,
+
+	pretože nebolo dokázané, že skutok spáchal obžalovaný.
+
+	o d ô v o d n e n i e :
+
+	Okresný súd Trenčín na hlavnom pojednávaní zistil skutkový stav veci tak, ako je uvedený vo výrokovej
+	časti tohto rozsudku.
+
+	Obžalovaný L. O. na hlavnom pojednávaní poprel spáchanie skutku, nakoľko nie je tak technicky
+	zdatný, aby sa dopustil skutku, ktorý sa mu kladie za vinu a poukázal, že v súčasnosti sa živí
+	manuálnou prácou. Uviedol, že k jeho počítaču mali prístup viaceré osoby, napr. jeho bratia a sestra, či
+	kamaráti, pričom počítač nebol chránený prístupovým heslom. Poukázal tiež, že aj napriek poznaniu IP
+	adries, z ktorých sa prihlasovalo na predmetné kontá svedkov - poškodených, nebolo preukázané, že
+	predmetné prihlásenia boli realizované z jeho počítača, resp. obžalovaným osobne, nakoľko v tom čase
+	sa na internet pripájal prostredníctvom wifi siete, ktorej prihlasovacie heslo bolo v názve siete, a teda
+	ktokoľvek sa mohol prihlásiť cez jeho wifi sieť. Wifi sieť bolo možné zachytiť aj mimo jeho obydlia, napr.
+	vonku na parkovisku, pričom spôsob prihlasovania poznala aj svedkyňa L. O.. Vo vzťahu k svedkyni L.
+	O. vypovedal, že sa rozišli na jeseň roku 2009, avšak v dobrom. Nemali medzi sebou žiadne konflikty.
+	Rozchod však inicioval on. Výpoveď svedkyne L. O. z prípravného konania považuje za klamstvo.
+	Potvrdil však konflikt so J. O., sestrou svedkyne.
+
+	Svedkyňa - poškodená A. M. v prípravnom konaní vypovedala, že si zriadila na portály Azet.sk
+	emailovú schránku s názvom “sonamon“, ktorú využívala na súkromné i pracovnú účely. Asi dňa
+	18.05.2009 dostala email od L. O., členky jej obchodnej skupiny. Po jeho otvorení sa na obrazovke
+	zobrazila akoby úvodná stránka portálu Azet.sk s výzvou na prihlásenie, a preto sa opätovne prihlásila.
+	Neskôr sa bez problémov z emailu odhlásila. Dňa 19.05.2009 sa s pôvodným heslom už nemohla na
+	email prihlásiť. Od spoločnosti Azet.sk si vyžiadala heslo. Po prihlásení zistila, že všetky emaily aj s
+	údajmi boli zmazané. Následne jej prišiel email s ponukou, že ak chce svoje emaily späť, má zaplatiť
+	dosť vysokú čiastku. S odosielateľom tejto ponuky komunikovala emailom, avšak už ich všetky
+	vymazala. Kontaktovala L. O., ktorá jej oznámila, že uvedený útok spáchal jej bývalý priateľ L. O., ktorý
+	získal prístup do emailu L. O. a rozposielal jej známym emaily lákajúce na jej fotky. Svedkyňu -
+	poškodenú kontaktovali jej známi a členky obchodnej skupiny s tým, že im od poškodenej prichádzajú
+	emaily o ukončení obchodnej spolupráce a aby poškodenej už na jej email nepísali. Preto kontaktovala
+	políciu. Odvtedy nezaznamenala žiadne zásahy. Uvedeným konaním jej nevznikla žiadna škoda. Mala
+	len obavu zo zneužitia získaných údajov. Preto si neuplatnila nárok na náhradu škody.
+
+	Svedok - poškodený Jozef E. v prípravnom konaní vypovedal, že približne v roku 2005 si zriadil cez
+	portál Azet.sk emailovú schránku, kde mal uložené všetky osobné a firemné údaje ako aj rôzne heslá. V
+	polovici mesiaca máj 2009 mu od odosielateľa katrinuXX@gmail.com <mailto:katrinuXX@gmail.com>
+	došiel mail. Po jeho otvorení sa mu zobrazil nápis, že sa stal obeťou phishingu, ktorý ignoroval. Od
+	21.05.2009 sa však nemohol, a to ani po opakovaných pokusoch, prihlásiť do svojho emailu. Následne
+	zistil, že jeho prihlasovacie údaje boli zmenené, a preto ho nechal administrátorom zablokovať. Pred
+	zablokovaním boli však z jeho emailovej schránky odoslané jeho priateľom správy, napr. že kupuje
+	aminokyseliny a ako dôkaz boli súčasťou správ faktúry o kúpe vitamínových doplnkov. K svojmu emailu
+	mal vytvorený záložný email, na ktorý mu boli zaslané údaje o zmenách prihlasovacích údajov, čo mu
+	umožnilo sa opätovne prihlásiť a zmeniť prihlasovacie údaje, avšak informáciu, že zmenil prihlasovacie
+	údaje bola zaslaná aj obžalovanému, keďže si tiež zadal svoj email, na ktorý sa mu posielali správy o
+	zmene prihlasovacích údajov. Potom sa asi dve hodiny obaja na email prihlasovali a menili
+	prihlasovacie údaje. O tom, že za útokom stál Lukáš O. sa dozvedel od priateliek zo Súče. Tie však
+	útok na ich emaily na polícii nenahlásili. Svedok - poškodený kontaktoval L. O., ktorá mu oznámila, že
+	sa už s L. O. rozišla, ale bojí sa ho, lebo sa jej vyhrážal pomstou za rozchod. Preto si svedok -
+	poškodený myslí, že obžalovaný zistil jeho emailovú adresu, po tom ako získal prístup do emailového
+	konta L. O., keďže poškodený a L. O. mali na seba emailové kontakty navzájom uložené v zozname
+	priateľov. Nové konto si nemusel zriadiť, keďže sa mu podarilo zo svojho emailu odstrániť z nastavenia
+	email obžalovaného, a preto už obžalovanému neboli zasielané informácie o zmenách prihlasovacích
+	údajov. Žiadny ďalší útok na svoj email už nezaznamenal. Uvedeným konaním mu nevznikla žiadna
+	škoda. Mal len obavu zo zneužitia získaných údajov. Preto si neuplatnil nárok na náhradu škody.
+
+	Svedkyňa L. O. v prípravnom konaní vypovedala, že sa začiatkom roka 2009 rozišla s obžalovaným,
+	ktorý sa jej po rozchode vyhrážal. Po zmene telefónneho čísla a emailu ju už nekontaktoval.
+	Obžalovaný poznal názov jej emailu, keďže spolu emailom komunikovali. V emaily mala uložené aj
+	kontakty na A. M., keďže bola členkou jej obchodnej skupiny, aj B. E., v ktorého krčme v Dolnej Súči
+	pracovala. Po rozchode jej obžalovaný prezradil, že získal heslo do jej konta. Niekedy v polovici roka
+	2009 ju kontaktovala A. M. ohľadom emailov, ktoré svedkyne - poškodenej od nej prichádzali.
+	Kontaktoval ju aj poškodený B. E., ktorému povedala, že za útokom na jeho email je obžalovaný.
+	Uviedla, že L. O. získal prístup aj ku kontám jej dvoch priateliek. Tie však políciu nekontaktovali.
+	Dodala, že sa bojí, že ju bude obžalovaný opäť kontaktovať a vyhrážať sa jej.
+
+	Súdom pribratý odborný konzultant, Ing. Eduard Jenčo, MBA., vo svojom písomnom vyjadrení uviedol,
+	že z dôkazov zadovážených v prípravnom konaní nie je preukázané, že sa niekto nabúral do kont
+	svedkov - poškodených A. M. a B. E., zmenil ich prístupové heslá, a z ich emailov odoslal emailové
+	správy. Taktiež neboli identifikované zariadenia, z ktorých mal byť spáchaný uvedený skutok, pričom
+	odborný konzultant poukázal, že na identifikáciu zariadenia by bolo potrebné zabezpečiť logové
+	záznamy zo spoločnosti Azet.sk, z ktorých by sa identifikovali IP adresy a na ich základe by sa vyžiadali
+	záznamy poskytovateľa pripojenia k internetu. Následne by sa vyhotovil znalecký posudok k obsahu,
+	autenticite a identifikácii odosielateľa emailových správ zo schránok poškodených, pričom by bolo
+	potrebné tiež zabezpečiť od obžalovaného počítačové údaje z jeho jednotiek výpočtovej techniky a
+	ďalším znaleckým posudkom zistiť aj typ šírenia dátového signálu z internetového pripojenia
+	registrovaného na obžalovaného, spôsob a rozsah jeho zabezpečenia a ustáliť okruh osôb, ktoré
+	internetové pripojenie registrované na obžalovaného používali ako aj preukázať, že z jednotiek
+	výpočtovej techniky obžalovaného došlo k pripojeniu na kontá poškodených v čase spáchania skutku.
+	Keďže uvedené úkony neboli v prípravnom konaní realizované, odborný konzultant dospel k záveru, že
+	nemožno žiadnym spôsobom identifikovať zariadenie alebo zariadenia, z ktorých mal dôjsť k spáchaniu
+	skutku.
+
+
+	Z vytlačeného obsahu internetovej stránky obžalovaného ( č.l. 64-74 ) vyplynulo, že obžalovaný
+	prevádzkuje internetovú stránku lukasprelovsky.sk venovanú okrem iného aj hackerskej činnosti.
+
+	Z vytlačených stránok z internetovej stránky Azet.sk predložených obžalovaným v prípravnom konaní (
+	č.l. 75-78 ) obžalovaný poukazuje, že internetové meno “gispawn“ na portáli Azet.sk neexistuje, a preto
+	z uvedeného dôvodu nemohlo byť ani zablokované a užívateľské meno “sonamon“ bolo na portály
+	Azet.sk registrované dňa 10.08.2011 a nebolo zablokované, inak by sa zobrazilo hlásenie o
+	zablokovaní užívateľského účtu.
+
+	Vzhľadom na vyššie uvedené súd po vykonanom dokazovaní, po zhodnotení všetkých dôkazov
+	získaných zákonným spôsobom, podľa svojho vnútorného presvedčenia založeného na starostlivom
+	uvážení všetkých okolností prípadu, jednotlivo i v ich súhrne, nezávisle od toho, kto ich obstaral, s
+	konštatovaním, že nie je možné vykonať na hlavnom pojednávaní žiadne ďalšie dôkazy, ktoré nenavrhli
+	ani procesné strany, mal za preukázané, že nebolo dokázané, že skutok, pre ktorý je obžalovaný
+	stíhaný, spáchal obžalovaný.
+
+	V predmetnej veci boli dôkazmi viny obžalovaného Lukáša O. výpovede svedkov - poškodených A. M. a
+	B. E. a svedkyne L. O., pričom vo výpovedi poškodeného B. E. došlo k chybe pri vyhotovení zápisnice
+	o jeho výsluch, keď sa v zápisnici objavuje tak názov emailu poškodeného a@b.c <mailto:a@b.c> ako
+	aj názov a@b.c <mailto:a@b.c>, avšak tak zo skutku uvedeného v obžalobe ako aj z úkonov
+	vykonaných pred začatím trestného stíhania ( úradný záznam o požadovaní informácie od B. E. zo dňa
+	05.06.2009, poskytnutie informácie spoločnosťou Azet.sk, a.s. o používateľovi gispawn zo dňa
+	18.06.2009 ) vyplýva, že správny názov emailu poškodeného B. E. je a@b.c <mailto:a@b.c>, teda
+	email registrovaný na portáli Azet.sk.
+
+	V konaní bolo preukázané, že stíhaný skutok sa stal, a to výpoveďami oboch svedkov poškodených,
+	ktorí podrobne popísali priebeh jednotlivých „útokov“ na ich emailové účty. Spáchanie stíhaného skutku
+	je podložené aj úkonmi vykonanými pred začatím trestného stíhania, a to poskytnutie informácie
+	spoločnosťou Azet.sk, a.s. ku kontám gispawn zo dňa 18.06.2009 a sonamon zo dňa 19.06.2009 ( bola
+	preukázaná existencia uvedených emailových účtov v čase útoku ) a identifikácia IP adries
+	poskytnutých spoločnosťou A. Telecom, a.s. zo dňa 19.07.2009 ( podľa zaznamenaných časových
+	údajov a IP adries bolo možné rozlíšiť prihlásenie sa svedkov - poškodených a útočníka/útočníkov na
+	predmetné emaily ), ktoré tvorili dostatočný podklad pre začatie trestného stíhania. Preto súd považuje
+	obranu obžalovaného z prípravného konania, keď predložil vytlačené stránky portálu Azet.sk k
+	užívateľským menám gispawn a sonamon ( č.l. 75-78 ) za nedostatočnú a nepreukazujúcu, že sa
+	skutok nestal. Avšak podľa názoru súdu nebolo preukázané, že skutok spáchal obžalovaný.
+
+	V prípade, ak majú slúžiť výpovede oboch poškodených podporené výpoveďou svedkyne Lenky O. a
+	poskytnutými informáciami od spoločností Azet.sk, a.s. a Slovak Telecom, a.s., ako dôkazy
+	preukazujúce vinu obžalovaného bez ďalších priamych a podporných dôkazov, musia spoločne tvoriť
+	jasný, logický, presvedčivý, vierohodný celok, ktorý nesmie byť inými dôkazmi spochybniteľný. Podľa
+	názoru súdu tieto vyššie uvedené dôkazy predmetné atribúty preukázateľne nespĺňali, keďže spáchanie
+	skutku obžalovaným bolo spochybnené vyjadrením odborného konzultanta, ktorý konštatoval, že na
+	základe v spise zadokumentovaných dôkazov nie je možné žiadnym spôsobom identifikovať zariadenie
+	alebo zariadenia, z ktorých malo dôjsť k spáchaniu skutku v zmysle obžaloby, čím vznikla pochybnosť o
+	vine obžalovaného, keďže podľa názoru súdu tak nebolo ani možné identifikovať osobu, ktorej
+	zariadenie alebo zariadenia, z ktorých bol vedené útoky, patria. Súd je toho názoru, že orgány činné v
+	trestnom konaní nevykonali všetky dôkazy, ktorými by náležite a bez pochybností zistili skutkový stav a
+	identifikovali osobu páchateľa, najmä prostredníctvom identifikovania zariadenia, z ktorého mal byť
+	skutok spáchaný a zistenia jeho užívateľa, ako aj vykonaním úkonov s cieľom potvrdiť alebo vylúčiť
+	spáchanie skutku obžalovaným, a to znaleckým skúmaním techniky a typu pripojenia na internet, ktorý
+	obžalovaný využíval.
+
+	Z požiadavky náležitého zistenia skutkového stavu veci vyplýva, že orgány činné v trestnom konaní
+	samy určujú mieru dokazovania, ktoré musia v konaní vykonať, aby bola táto požiadavka splnená.
+	Orgány činné v trestnom konaní musia vykonať také dôkazy, ktoré zabezpečia náležité zistenie
+	skutkového stavu veci bez dôvodných pochybností tak, aby bolo možné vo veci spravodlivo rozhodnúť,
+	pričom musia s rovnakou starostlivosťou objasňovať okolnosti svedčiace proti obžalovanému, ako aj
+	okolnosti, ktoré svedčia v jeho prospech. Ak vykonané dôkazy v konaní pred súdom nebudú stačiť na
+	uznanie viny obžalovaného a ak nebude možné vykonať iné dôkazy s cieľom vyvrátiť dôvodné
+	pochybnosti, je nevyhnutné, pri rešpektovaní zásady in dubio pro reo, obžalovaného spod obžaloby
+	oslobodiť. Z toho vyplýva, že dôvodné pochybnosti v predmetnej trestnej veci sa vzťahujú nielen na
+	otázku viny obžalovaného, ale aj na možnosť obstarania a vykonania ďalších dôkazov, ktoré by tento
+	skutkový stav, resp. vykonané dokazovanie zmenili.
+
+	Vzhľadom na všetky vyššie uvedené skutočnosti zistil súd dôvod na oslobodenie obžalovaného spod
+	obžaloby, pretože nebolo dokázané, že stíhaný skutok spáchal obžalovaný.
+
+	S predmetným trestným konaním nebolo spojené konanie o náhrade škody, tzv. adhézne konanie,
+	keďže si žiadny z poškodených neuplatnil nárok na náhradu škody.
+
+	Poučenie:
+
+
+	Proti tomuto rozsudku je možné podať odvolanie do 15 (pätnástich) dní od jeho oznámenia
+	prostredníctvom Okresného súdu Trenčín na Krajský súd v Trenčíne. Právo podať odvolanie
+	neprináleží tomu, kto sa tohto práva už výslovne vzdal.
