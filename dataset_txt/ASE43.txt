@@ -1,0 +1,352 @@
+Súd:                                 Okresnı súd Galanta
+Spisová znaèka:                      29T/145/2015
+Identifikaèné èíslo súdneho spisu:   2315010721
+Dátum vydania rozhodnutia:           24. 04. 2017
+Meno a priezvisko sudcu, VSÚ:        JUDr. Jozef Pikna
+ECLI:                                ECLI:SK:OSGA:2017:2315010721.3
+
+
+	ROZSUDOK V MENE SLOVENSKEJ REPUBLIKY
+
+	Okresnı súd Galanta samosudcom JUDr. Jozefom Piknom v trestnej veci proti obalovanému L. B. pre
+	preèin porušovania autorského práva pod¾a § 283 ods. 1, ods. 2 písm. d) Trestného zákona, na hlavnom
+	pojednávaní konanom dòa 24.4.2017, takto
+
+	rozhodol:
+
+
+	Obalovanı L. B., M.. XX.XX.XXXX F. Y., Q. B. È.. XXX
+
+	sa pod¾a § 285 písm. a) Trestného poriadku
+
+	oslobodzuje
+
+
+	spod obaloby prokurátora Okresnej prokuratúry Galanta è. X U. XXX/XX/XXXX zo dòa 13.8.2015 pre
+	preèin porušovania autorského práva pod¾a § 283 ods. 1, ods. 2 písm. d) Trestného zákona, ktorého
+	sa mal dopusti tak,
+
+	e
+
+
+	v èase od 26.05.2013 minimálne do 28.07.2013 v obci B., v rodinnom dome èíslo XXX, ako uívate¾
+	P2P siete (Peer to Peer) s prezıvkou „N.“, prostredníctvom vo¾ne stiahnute¾ného poèítaèového softwaru
+	BitComet 1.31, ktorı predtım nainštaloval do poèítaèového systému AT Computer, typ Comfort Diablo
+	s pridelenou IP adresou XXX.XXX.XXX.XX, prostredníctvom uzlov „R.:/..F..K.:XXX, R.:/..M.:XXX J.
+	U..K..G.:XXXX, neoprávnene poskytol inım uívate¾om internetu vo¾ne k stiahnutiu viac ako 385,53 GB
+	dát, z ktorıch najmenej 26.85 GB tvorili chránené zvukové záznamy a iné hudobné súbory v rôznych
+	formátoch, podliehajúce zákonom chránenım právam k dielu, ktoré sa nachádzali v prieèinku vyššie
+	uvedeného poèítaèového systému pod názvom „MP3“,
+
+	pretoe nebolo dokázané, e sa stal skutok, pre ktorı je obalovanı stíhanı.
+
+	Pod¾a § 288 odsek 3 Trestného poriadku súd poškodeného Èeská národní skupina Mezinárodní
+	federace hudebního prùmyslu, z. s. (ÈNS IFPI), I.: XXXXXXXX, so sídlom Slavíkova 15, 120 00 Praha
+	2, s uplatnenım nárokom na náhradu škody odkazuje na civilnı proces.
+
+	odôvodnenie:
+
+
+	Na základe obaloby prokurátora okresnej prokuratúry Galanta súd v predmetnej veci vydal trestnı
+	rozkaz è. k. 29T/145/2015 - 210 zo dòa 27.8.2015, voèi ktorému obalovanı podal v zákonom
+	stanovenej lehote odpor.
+
+	Následne súd nariadil hlavné pojednávanie, na ktorom vykonal dokazovanie spoèívajúce vo vısluchu
+	obalovaného L. B., oboznámením znaleckého posudku (èl. 49 -113), vısluchom znalca R.. I.. L. L., K..,
+	vısluchom svedka I.. U. Q. (vrátane preèítania èasti vıpovede svedka I.. Q. z prípravného konania v
+	súlade s ustanovením § 264 Trestného poriadku) a oboznámením listinnıch dôkazov: list vlastníctva
+	è. 688 (èl. 133), správa o identite uívate¾a IP adresy è. XXX.XXX.XXX.XX (èl.136), špecifikácia škody
+	(èl. 188), zápisnica o vykonaní domovej prehliadky (120-123), register trestov (èl. 193), vıpis z registra
+	priestupkov (èl. 194), správa z Obce B. (èl. 196), správa zamestnávate¾a (èl. 197), vısledky sledování
+	èinnosti uivatele internetové sítì P2P (èl. 138-171).
+
+	Obalovanı L. B. na hlavnom pojednávaní vypovedal, e od zaèiatku ako k nemu prišli policajti z
+	príkazom na domovú prehliadku, tomuto celému nerozumie, je z toho zmätenı a zároveò je zmätenı
+	aj z toho, e vôbec prebieha tento súd. Jeho vzdelanie je stredoškolské - 8-roèné gymnázium v Y..
+	Jeho poèítaèové zruènosti sú priemerné. V tom období 2013 mal doma 2 poèítaèe. Adresa uvedená
+	v obalobe mu je známa z dokumentov v spise. Èo sa tıka tej IP adresy uvedenej v skutkovej vete
+	obaloby, nevie uvies, èi je to jeho IP adresa, nako¾ko jemu v poèítaèi písalo inú IP adresu. Èo sa tıka
+	programu Bit Comet uvádza, e tento program mal stiahnutı v poèítaèi, avšak za akım úèelom, to uvies
+	nevie, pravdepodobne ho nainštaloval on a to vtedy, keï si chcel stiahnu nejakú hudbu z internetu, tak
+	len odklikal next, next ... a pravdepodobne tımto spôsobom sa do poèítaèa stiahol. Èo sa tıka licenènıch
+	podmienok, resp. obchodnıch podmienok pri sahovaní predmetného súboru, dnes si to vyaduje u asi
+	kadı program, ide o zakliknutie jedného políèka a toto som zaklikol. S tımito obchodnımi podmienkami
+	som sa však neoboznamoval, len som to mechanicky zaklikol. V mojom poèítaèi sa nachádzal prieèinok
+	MP3 v ktorom sa nachádzali hudobné súbory vo formáte MP3. Tieto hudobné súbory boli ako záloha CD
+	- èiek, ktoré mám doma zakúpené. Táto hudba slúila ako záloha diskov, nako¾ko ve¾mi ve¾a cestuje a
+	v aute poèúva hudbu z CD. Prieèinky boli nastavené na zdie¾anie v rámci vnútornej siete. To nastavenie
+	vykonal on. Mal vedomos o tom, e k tımto súborom majú prístup iné osoby v rámci internej siete.
+	Tieto súbory neponúkal tretím osobám. Pri sahovaní nemá vedomos, e by sa ukazovala informácia,
+	e tieto súbory môu by poskytnuté tretím osobám. Pri zaistení predmetnıch poèítaèov mu bol zaistenı
+	aj klasickı USB k¾úè. Doma mal aj CD nosièe aj Blu-ray nosièe aj DVD nosièe, tieto mu zaistené neboli.
+	Na tıchto nosièoch boli súbory, ktoré sa zhodovali s hudobnımi súbormi v poèítaèi. Tieto nosièe získal
+	kúpou. Keï si pri sahovaní formátov z internetu poèítaè vyadoval stiahnutie nejakého programu, tak ho
+	nainštaloval. Èo sa tıka inıch programov na sahovanie okrem Bit comet 1.P1, nemá vedomos o tom, e
+	by takéto boli v jeho poèítaèi. Èo sa tıka vyuívania internej siete v tom èase, bol jej jedinım uívate¾om.
+	Súbory sa nesnail speòaova, bolo to len v rámci interného zdie¾ania. Ani ich nikdy nespeòail.
+
+	Zo znaleckého posudku vypracovaného R.. I.. L.G. L.L., K.. súd zistil, e pomocou zaistenıch poèítaèov
+	a routra je moné sa pripoji k sieti Internet. Nie je moné zisti vonkajšiu adresu routra, nako¾ko
+	prístup do nastavení je blokovanı menom a heslom. Vnútorná adresa siete pride¾ovaná poèítaèom -
+	routrom je v rozsahu adries tzv. C siete (XXX.XXX.X.X-XXX a pod.). V oboch skúmanıch (zaistenıch)
+	poèítaèoch je nadstavenı na zdie¾anie prieèinok „MP3“ s obsahom hudobnıch diel. Nie je moné uvies
+	od akého dátumu bol tento prieèinok zdie¾anı. Poèítaè neuchováva údaje o uzloch R.:/..F..K.:XXX,
+	R.:/..M.:XXX J. U..K..G.:XXXX - jedná sa o webové stránky, údaj môe poskytnú iba prevádzkovate¾
+	tıchto stránok. Oba poèítaèe poskytovali na zdie¾anie hudobné súbory obsiahnuté v dvoch prieèinkoch
+	(oboch poèítaèov) s názvom „MP3“. Torentovı (P2P) program inštalovanı v PC AT Computer je BitComet
+	1.31. Zo zaistenıch poèítaèov nie je moné zisti registráciu, resp. prihlasovanie sa úèastníka pod
+	prezıvkou „N.“ do programov urèenıch na sahovanie a zdie¾anie súborov, resp. na iné servery slúiace
+	k takémuto úèelu. Nie je moné zisti poèty stiahnutí jednotlivıch zdie¾anıch hudobnıch súborov, jedná
+	sa o dynamickı proces, ktorı môe uívate¾ skúmanıch poèítaèov denne meni. Poèet stiahnutí môe
+	evidova poskytovate¾ uvedenıch stránok. Avšak uívate¾ poèítaèov mohol meni aj zdrojové stránky
+	a rovnako tak stránky prostredníctvom ktorıch poskytoval svoje súbory na stiahnutie inım úèastníkom
+	siete. Torentovı program BitComet má prázdnu históriu stiahnutıch súborov.
+
+	Znalec R.. I.. L. L., K.. na hlavnom pojednávaní uviedol, e v zaistenom poèítaèi, tak ako uviedol v
+	znaleckom posudku, sa nachádzal program na sahovanie dát Q. K. X.XX. Tento program slúi ako
+	interná sie v rámci ktorej je moné zdie¾a súbory. Program vyuíva pripojenie na internet, ktoré má
+	uívate¾ od svojho providera, avšak v rámci internetu ide o internú sie, ktorá neumoòuje aby bol
+	prístup k súborom mimo tejto siete. Ide o klasickú Pear2Pear (ïalej len „P2P“) sie. Èo sa tıka prístupu k
+	súborom umiestnenıch v P2P sieti, tak tento prístup majú len tí, ktorí majú predmetnú sie nainštalovanú,
+	teda súbory nie sú bene dostupné pre tretie osoby, ktoré nie sú úèastníkmi tejto siete. Spravidla si tieto
+	siete vyadujú striktne to, aby uívate¾ nazdie¾al istı rozsah svojho fyzického resp. logického disku. To èo
+	je obsahom nazdie¾anej èasti disku však tieto siete neprikazujú. Teda je na uívate¾ovi, èi súbory, ktoré
+	má v nazdie¾anom prieèinku, sú získané legálne, resp. èi sú v súlade napríklad s autorskım zákonom.
+	Uívate¾ nemá monos zisti, èi súbory ktoré sahuje, sú získané legálne. Na to, aby uívate¾ zdie¾al
+	èasti svojho disku sa vyaduje aktívny úkon uívate¾a, prièom tımto úkonom je aj zakliknutie, e súhlasí
+	s podmienkami samotného programu. Program v poèítaèi, ktorı znalec skúmal, bol plne funkènı. Èo
+	sa tıka hudobnıch skladieb, ktoré boli nastavené na zdie¾anie v sieti (uvedené v znaleckom posudku
+	na str. 22 - è. l. 70 v spise) tieto boli nastavené na zdie¾anie vo vnútornej sieti obalovaného a èi boli
+	nastavené na zdie¾anie v sieti Bic Comet sa zisti nedalo, nako¾ko log tejto siete, t. j. história, bola
+	prázdna. Poèítaèe mali vnútornú tzv. C - èkovú IP adresu. IP adresu routera sa znalcovi nepodarilo zisti,
+	nako¾ko nemal k dispozícii heslo do tohto routera a v prípade, e by ho resetol, vymazala by sa aj táto
+	IP adresa, a všetky nastavenia tohto routera. Znalec nevie uvies, kedy bol program Bit comet 1.31
+	do poèítaèa nainštalovanı. Nako¾ko, tak ako uviedol, neexistuje história programu Bit comet, nevie ani
+	urèi, èi a kedy dochádzalo k sahovaniu súborov v rámci tejto siete. Tento program nebol nastavenı tak,
+	aby sa po spustení poèítaèa spustil automaticky a preto bolo na uívate¾ovi èi a kedy si ho spustí. Ak
+	obalovanı nemal nainštalovanı DC ++, tak nebolo moné od neho sahova súbory prostredníctvom
+	tohto programu, avšak to, e ho nemal nainštalovanı v èase zaistenia neznamená, e by ho nemohol
+	ma nainštalovanı niekedy predtım. V rámci vymazanıch súborov znalec v predmetnıch poèítaèoch
+	nenašiel program Strong DC ++.
+
+	Svedok - poškodenı I.. U. Q. na hlavnom pojednávaní uviedol, e pracuje pre Èeskú národnú skupinu
+	IFPI (ïalej aj ako „ÈNS IFPI“) na základe dohody o spolupráci ako samostatne zárobkovo èinná osoba
+	a jeho úlohou je sledova uívate¾ov, ktorí neoprávnene sahujú autorské diela, ktoré im nepatria. V
+	tomto prípade sledoval uívate¾a s prezıvkou „N. od 26.5.2013 do 28.7.2013. Tento uívate¾ ponúkal na
+	internete k sahovaniu takmer 386 Gb dát z èoho najmenej 26,85 Gb tvorili zvukové súbory. Èinnos tohto
+	uívate¾a, ktorı sa v predmetnom období prihlásil k sieti P2P minimálne 34-krát zaznamenal a odovzdal
+	ÈNS IFPI. Súèasou odovzdanıch informácií bola aj informácia, e prípojnım bodom je miesto A. v
+	okrese Y.. Zároveò bol súèasou záznamu aj náhodne vybranı dátovı súbor, ktorı bol zaznamenanı na
+	dátovom nosièi. To, e bol sledovanı uívate¾ 34-krát prihlásenı zistil prostredníctvom programu Strong
+	Dc ++, a to tak, e jeho IP adresa bola 34-krát online v danej P2P sieti. Išlo o prihlásenie vdy tou istou
+	IP adresou, avšak za dôleitejšie povauje to, e išlo o prihlásenie vdy pod tou istou prezıvkou, ktorá
+	má jedineèné a nezamenite¾né alfanumerické oznaèenie. To, e išlo o diela chránené autorskım právom
+	zistil svedok tak, e náhodne stiahol jedno dielo a porovnal jeho názov so skutoènım obsahom. Príklad,
+	ktorı odovzdal ÈNS IFPI bolo dielo „Y. R.“. Išlo o rôzne videoklipy. Pôvodnı zdroj tıchto súborov svedok
+	urèi nevie, on ich sahoval z poèítaèa s prezıvkou „N.. Èo sa tıka súborov, ktoré svedok stiahol, nedá sa
+	rozozna, èi išlo o prvé kópie z disku, pokia¾ uívate¾ pri kopírovaní neurobil iadne zmeny, èo však tie
+	nevie svedok zisti. Kadı súbor má svoj „hash kód“ a na tomto princípe aj fungujú P2P siete, keïe ide
+	o nezamenite¾nı kód. Takto je moné stiahnu totoné súbory od viacerıch uívate¾ov v rámci P2P siete.
+	Ak je v názve súboru uvedenı aj odkaz na web stránku, môe sa pravdepodobne jedna o stránku odkia¾
+	bol súbor stiahnutı. Èo sa tıka prezıvky „N., išlo o uívate¾a, nie o konkrétny poèítaè. To prostredníctvom
+	ktorého programu uívate¾ ponúkal predmetné súbory svedok presne uvies nevie. Tento program však
+	musel spåòa všeobecné štandardy na prácu v sieti P2P. S najväèšou pravdepodobnos sa mohlo jedna
+	o program Strong DC++, avšak vzh¾adom na odstup èasu ako aj teraz svedkovi dostupné materiály, nevie
+	s istotou urèi o akı program išlo. Ak je súbor ponúkanı jednım programom v rámci siete P2P, je moné
+	ho sahova aj inım programom. Môe ís napríklad o program Kaaza. Ak na jednom poèítaèi ponúkam
+	cez nejakı program v rámci P2P siete, tak cez tento program aj sahujem, ale ak z nejakého poèítaèa
+	sa súbor do P2P siete ponúka cez nejakı program z iného poèítaèa, je moné tento súbor z danej
+	P2P siete stiahnu aj s inım programom. Èo sa tıka zaznamenania èinnosti uívate¾a „N.“ svedkom,
+	program, ktorı slúi na prihlasovanie do P2P siete zaznamenáva aj rôzne dáta z èinnosti uívate¾a a
+	tieto sú inému uívate¾ovi P2P siete prístupné. Prostredníctvom špeciálne nainštalovanıch protokolov
+	sa ukladajú informácie ako je prezıvka èi IP adresa a svedok ich potom vie vyselektova. Èo sa tıka
+	tıchto informácií, sú radené chronologicky, ide aj o informácie, ktoré súbory sú zdie¾ané a ktoré z nich sú
+	chránené autorskım právom. Svedok urobil aj screen-shoty a toto všetko odovzdal ÈNS IFPI. Súèasou
+	dôkazového materiálu odovzdaného ÈNS IFPI bol aj dátovı nosiè, na ktorom bol stiahnutı náhodnı
+	súbor od obalovaného a zároveò obsahoval aj zoznam súborov ponúkanıch obalovanım. To preèo sa
+	súbor, ktorı svedok stiahol ako príklad od obalovaného nenachádzal na poèítaèi zaistenom pri domovej
+	prehliadke, svedok urèi nevie. Èinnos uívate¾a „N.“ prebiehala na viacerıch sledovanıch huboch.
+	Uívate¾ na rôznych huboch nemôe vystupova v jednej chvíli pod rôznymi prezıvkami. V rôznych
+	èasovıch okamihoch je moné, aby uívate¾ s prezıvkou „N.“ bol na jednom hube a v inom èasovom
+	okamihu na inom hube. V jednom okamihu nie je moné, aby v jednom programe bol jeden uívate¾
+	prihlásenı na rôznych huboch.
+
+	Z dokumentu „vısledky sledování èinnosti uivatele internetové sítì P2P“ vyplıva, e I.. U. Q. sledoval
+	èinnos uívate¾a internetovej siete P2P s prezıvkou „N. a IP adresou PC: XXX.XXX.XXX.XX, prièom
+	pod¾a jeho zistení bola predmetná IP adresa aktívna v internetovej siete P2P prostredníctvom uzlov:
+	R.:/..F..K.:XXX, R.K.:/..M.:XXX J. U..K..G.:XXXX v období 26.5.2013 - 28.7.2013 celkom 34 krát. I.. U.
+	Q. stiahol od predmetného uívate¾a zoznam ponúkanıch súborov (ïalej ako „filelist“), prièom následne
+	overoval, èi v òom uvedené súbory obsahuje aktuálna ponuka uívate¾a na sledovanıch HUBoch.
+	Súbory vo fileliste, ktorı je súèasou vısledkov sledovania boli zoradené pod sebou a nazvané napríklad:
+	„N. M. P. - Q. I. A. E. {J.}.N. P. A.>; „. M. P. - A. P. P. [R.] [Z. Q. K.].J. P.“. Náhodne skontroloval viac
+	ne desa ponúkanıch súborov a ich obsah presne zodpovedal titulom z filelistu. Po potvrdení tejto
+	skutoènosti vykonal kontrolné stiahnutie náhodne vybranıch súborov, ktorıch TTH (hash) je totonı
+	s tım, ktorı je uvedenı v stiahnutom zozname súborov. Analızou filelistu, ktorı bol stiahnutı od
+	sledovaného uívate¾a, I.. U. Q. zistil, e uívate¾ „N.“ ponúkal zo svojho poèítaèa zdie¾ané súbory vo
+	ve¾kosti 385,53 GB a zdie¾ané audiovizuálne súbory vo ve¾kosti 26,85 GB. Uvedené bolo zisované cez
+	klienta „Strong DC++“. Od uvedeného uívate¾a bol stiahnutı kontrolnı súbor pod názvom zloky: „Gigi
+	D´Agostino - klipy“. Lokalizáciou predmetnej IP adresy cez vyh¾adávaè U.:/..E..R. W.dòa 31.8.2013 I..
+	U. Q. zistil umiestnenie predmetnej IP adresy v mieste A..
+
+	Z listu vlastníctva è. XXX vyplıva, e obalovanı je vıluènım vlastníkom nehnute¾nosti - rodinného domu
+	súpisné èíslo XXX postaveného na pozemku s parcelnım èíslom XXX/X v k.ú. B., obce B. v okrese Y..
+
+	Zo správy o identite uívate¾a IP adresy è. XXX.XXX.XXX.XX vyplıva, e pod¾a záznamov poskytovate¾a
+	internetového pripojenia F. A. - NETCOM, F. XXXX/XX, XXX XX Y., je uívate¾om uvedenej IP adresy
+	L. B., T. XXX, XXX XX B..
+
+	Zo špecifikácie škody vyplıva, e celková poadovaná náhrada škody poškodenım je 2.800,-Kè za
+	kadı Gigabyte zaistenıch dát na nosièi informácií s hudobnımi èi zvukovo - obrazovımi súbormi.
+
+	Zo zápisnice o vykonaní domovej prehliadky vyplıva, e pri domovej prehliadke boli vydané veci: stolovı
+	poèítaè èiernej farby (predná èas strieborná), zabudovaná DVD mechanika + vstup na USB a pamäové
+	karty. Z boènej strany nálepka „Windows Vista Home Basic“ è. XXXXX-XXX-XXX-XXX + napájací kábel;
+	stolovı poèítaè èiernej farby bez príslušenstva, nezisteného vırobného èísla s nápisom „Ace power“ v
+	prednej èasti; 1 ks USB k¾úè znaèky T.O. Elta oranovo - striebornej farby; WIFI Router bielo - èiernej
+	farby znaèky TP Link, serial NO: P. spolu s napájacím adaptérom.
+
+	Z odpisu registra trestov vyplıva, e obalovanı nemá v registri trestov iaden záznam.
+
+	Z vıpisu z ústrednej evidencie priestupkov Ministerstva vnútra Slovenskej republiky vyplıva, e
+	obalovanı má evidované dva priestupky na úseku dopravy a to zo dòa 4.5.2012 a 23.4.2013.
+
+	Zo správy z Obce B. vyplıva, e obalovanı sa zdruje na mieste svojho trvalého pobytu, iné skutoènosti
+	o menovanom obci nie sú známe a správanie obalovaného nebolo prejednávané komisiou verejného
+	poriadku.
+
+
+	Zo správy zamestnávate¾a vyplıva, e pracovnı pomer u predmetného zamestnávate¾a trval od
+	8.7.2013 do 31.5.2015, prièom zamestnanec nebol disciplinárne riešenı.
+
+	Prokurátor Okresnej prokuratúry Galanta v závereènej reèi na hlavnom pojednávaní uviedol, e názvy
+	diel ktoré boli uvedené tak vo vısledku sledovania zástupcom poškodeného ako aj v prílohe znaleckého
+	posudku nie sú v takom formáte, v akom by boli, ak by boli tieto súbory priamo stiahnuté z originálnych
+	CD, resp. Blu-ray diskov, prièom niektoré názvy obsahovali aj odkazy na web stránky, z ktorıch boli
+	pravdepodobne tieto diela stiahnuté.
+
+	Súd po vykonanom dokazovaní na hlavnom pojednávaní vyhodnotil dôkazy pod¾a svojho vnútorného
+	presvedèenia zaloeného na starostlivom uváení všetkıch okolností prípadu jednotlivo ako aj vo
+	vzájomnıch súvislostiach a rešpektujúc zásadu prezumpcie neviny a z nej vyplıvajúcu zásadu in dubio
+	pro reo (v pochybnostiach v prospech obvineného), v prejednávanej veci rozhodol tak, e obalovaného
+	spod skutku uvedeného v obalobe oslobodil v zmysle ustanovenia § 285 písmeno a) Trestného
+	poriadku, lebo nebolo dokázané, e sa stal skutok, pre ktorı je obalovanı stíhanı.
+
+	Súd dôkaz „vısledky sledování èinnosti uivatele internetové sítì P2P“ vyhodnotil ako nepouite¾nı pre
+	rozhodnutie vo veci samej, nako¾ko zadokumentovanie získanıch informácii nerobil znalec a tieto ani
+	neboli zadokumentované procesne vyhovujúcim spôsobom v zmysle Trestného poriadku.
+
+	Pod¾a § 8 Trestného zákona, trestnı èin je protiprávny èin, ktorého znaky sú uvedené v tomto zákone,
+	ak tento zákon neustanovuje inak.
+
+	Na naplnenie znakov trestného èinu musia by splnené dve zákonné podmienky. Musí ís o protiprávny
+	èin a jeho znaky musia by uvedené v Trestnom zákone. Formálne znaky skutkovej podstaty trestného
+	èinu porušovania autorského práva pod¾a § 283 ods.1, ods. 2 písm. d) Trestného zákona sú definované
+	tak, e objektom tohto trestného èinu sú zákonom chránené práva k dielu, umeleckému vıkonu,
+	zvukovému záznamu alebo zvukovo-obrazovému záznamu, rozhlasovému vysielaniu alebo televíznemu
+	vysielaniu alebo databáze, objektívna stránka spoèíva v konaní páchate¾a, ktorı neoprávnene zasiahne
+	do tıchto chránenıch práv prostredníctvom poèítaèového systému, subjekt je všeobecnı, teda
+	páchate¾om môe by ktoráko¾vek trestne zodpovedná osoba a z h¾adiska subjektívnej stránky sa
+	vyaduje úmyselné zavinenie. Pre naplnenie skutkovej podstaty trestného èinu pod¾a § 283 ods.1, ods.
+	2 písm. d) Trestného zákona je potrebné, aby boli súèasne splnené všetky formálne znaky skutkovej
+	podstaty trestného èinu.
+
+	Neoprávnenım zásahom do zákonom chránenıch práv k dielu a ïalším vıkonom a záznamom je
+	najmä privlastnenie si autorstva k dielu a akéko¾vek uverejnenie diela bez súhlasu autora, prípadne s
+	jeho súhlasom, avšak so zmenami v diele, na ktoré autor nedal súhlas, prípadne pouitie diela takım
+	spôsobom, e to zniuje jeho umeleckú hodnotu.
+
+	Z vykonaného dokazovania mal súd za jednoznaène preukázané, e zaistené poèítaèe a router v rámci
+	domovej prehliadky patrili obalovanému, ktorı ich pouíval na adrese svojho pobytu T. XXX, XXX XX
+	B. a to aj na pripojenie sa k sieti internet. Na tıchto poèítaèoch mal okrem iného súbory v prieèinku
+	„MP3“, ktoré boli nastavené na zdie¾anie v rámci internej (domácej) siete, teda v rámci domácnosti
+	obalovaného, prièom túto vyuíval vıluène sám obalovanı. Nie je moné uvies od akého dátumu bol
+	tento prieèinok nastavenı na zdie¾anie. V poèítaèoch mal nainštalovanı program BitComet 1.31 slúiaci
+	na zdie¾anie súborov v rámci P2P siete, ktorı však nebol nastavenı tak, aby sa po spustení poèítaèa
+	spustil automaticky a preto bolo na uívate¾ovi èi a kedy si ho spustí. Obalovanı mal pridelenú IP adresu
+	è. XXX.XXX.XXX.XX. Obalovanému pri domovej prehliadke neboli zaistené iadne CD/Blu-ray alebo
+	DVD nosièe.
+
+	Naopak z vykonaného dokazovania nebolo jednoznaène preukázané, e by obalovanı akéko¾vek
+	súbory (vrátane súborov chránenıch autorskım právom) zdie¾al mimo svojej „domácej“ siete - teda na
+	sieti internet, èi u v rámci P2P siete, na pripojenie ku ktorej pouíval program BitComet 1.31 alebo
+	mimo nej. Zo znaleckého posudku jednoznaène vyplynulo, e èo sa tıka hudobnıch skladieb, ktoré
+	boli nastavené na zdie¾anie v sieti, tieto boli nastavené na zdie¾anie vo vnútornej („domácej“) sieti
+	obalovaného a èi boli nastavené na zdie¾anie v sieti Bic Comet 1.31 sa zisti nedalo, nako¾ko log tejto
+	siete, t. j. história, bola prázdna. Nako¾ko neexistuje história programu Bit comet 1.31, nevie sa ani urèi,
+	èi a kedy dochádzalo k sahovaniu súborov v rámci tejto siete. Rovnako nie je moné zo zaistenıch
+	poèítaèov zisti registráciu, resp. prihlasovanie sa úèastníka pod prezıvkou „farokh“ do programov
+	urèenıch na sahovanie a zdie¾anie súborov, resp. na iné servery slúiace k takémuto úèelu.
+
+	Z vyššie uvedeného mal teda súd za to, e v konaní nebolo preukázané konanie obalovaného, ktorım
+	by neoprávnene zasiahol do zákonom chránenıch práv k dielu, umeleckému vıkonu, zvukovému
+	záznamu alebo zvukovo-obrazovému záznamu, rozhlasovému vysielaniu alebo televíznemu vysielaniu
+	alebo databáze prostredníctvom poèítaèového systému a teda nebolo preukázané, e by spáchal preèin
+	porušovania autorského práva pod¾a § 283 ods.1, ods. 2 písm. d) Trestného zákona.
+
+	Pre úplnos súd uvádza, e èo sa tıka prokurátorom v závereènej reèi uvedeného, e názvy diel, ktoré
+	boli uvedené tak vo vısledku sledovania zástupcom poškodeného ako aj v prílohe znaleckého posudku,
+	nie sú v takom formáte, v akom by boli, ak by boli tieto súbory priamo stiahnuté z originálnych CD, resp.
+	Blu-ray diskov, prièom niektoré názvy obsahovali aj odkazy na web stránky, z ktorıch boli pravdepodobne
+	tieto diela stiahnuté, skutková veta obaloby neobsahuje „neoprávnené sahovanie, resp. drbu
+	chránenıch zvukovıch záznamov a inıch hudobnıch súborov v rôznych formátoch, podliehajúcich
+	zákonom chránenım právam k dielu“, ale ich „neoprávnené poskytovanie inım uívate¾om internetu
+	vo¾ne k stiahnutiu“, prièom súd môe v súlade s § 278 ods. 1 Trestného poriadku rozhodova len o
+	skutku, ktorı je uvedenı v obalobnom návrhu.
+
+	Obhajca nad rámec dôkazov navrhovanıch prokurátorom okresnej prokuratúry navrhol vypoèu
+	svedkyòu T.. V. L. U. . k skutoènostiam, èi Èeská národná skupina IFPI je oprávnená zastupova práva
+	vıkonnıch umelcov, práva vırobcov zvukovıch záznamov a ku skutoènosti èi a komu vznikla škoda a
+	k spôsobu urèenia vıšky škody. Tento návrh súd uznesením pod¾a § 272 ods. 3 Trestného poriadku
+	odmietol, nako¾ko sa tıka okolností nepodstatnıch pre rozhodnutie.
+
+	Prokurátor okresnej prokuratúry na hlavnom pojednávaní navrhol vykona dôkaz - oboznámením obsahu
+	CD, ktorı je prílohou vısledkov sledovania èinnosti uívate¾a internetovej siete P2P. Tento návrh
+	súd uznesením pod¾a § 272 ods. 3 Trestného poriadku odmietol, nako¾ko okolnosti, ktoré by bolo
+	moné zisti oboznámením obsahu CD súd u zistil skôr navrhnutım a súdom vykonanım dôkazom -
+	„vısledky sledování èinnosti uivatele internetové sítì P2P“ (èl. 138-171), prièom ako je uvedené vyššie,
+	tento dôkaz vyhodnotil ako nepouite¾nı pre rozhodnutie vo veci samej, èo rovnako platí aj o obsahu
+	predmetného CD.
+
+	Zároveò súd odmietol vykona prokurátorom navrhovanı opätovnı vısluch znalca R.. I.. L. L., K..,
+	nako¾ko má za to, e tak prokuratúra ako aj obhajoba mala dostatoènı priestor na vısluch znalca, ktorı
+	bol vypoèutı na hlavnom pojednávaní dòa 24.2.2017 a poèas hlavného pojednávania nevyšli najavo
+	také nové skutoènosti, ktoré by opätovnı vısluch znalca odôvodòovali.
+
+	V zmysle ustanovenia § 288 odsek 3 Trestného poriadku pod¾a ktorého: „Ak súd obalovaného
+	spod obaloby oslobodí, odkáe poškodeného s jeho nárokom na náhradu škody vdy na civilnı
+	proces, prípadne na konanie pred inım príslušnım orgánom“, súd odkázal aj v prejednávanom prípade
+	poškodeného s jeho nárokom na náhradu škody na civilnı proces.
+
+	Pouèenie:
+
+
+	Proti tomuto rozsudku je moné poda odvolanie do 15 dní odo dòa jeho oznámenia prostredníctvom
+	podpísaného súdu na Krajskı súd v Trnave, pokia¾ sa oprávnené osoby nevzdali odvolania po vyhlásení
+	tohto rozsudku. Oznámením rozsudku je jeho vyhlásenie v prítomnosti toho, komu treba rozsudok
+	doruèi. Ak sa rozsudok vyhlásil v neprítomnosti takejto osoby, oznámením je a doruèenie rozsudku (§
+	309/1 Tr. por.). Odvolanie má odkladnı úèinok. (§ 306/2 Tr. por.).
+
+	Odvolanie môu poda:
+
+	- prokurátor pre nesprávnos ktoréhoko¾vek vıroku (§ 307/1a Tr. por.) a to v neprospech i v prospech
+	obalovaného (§ 308/1,2 Tr. por.). V prospech obalovaného môe poda odvolanie aj proti vôli
+	obalovaného (§ 308/2 Tr. por.),
+	- obalovanı pre nesprávnos vıroku, ktorı sa ho priamo tıka, okrem vıroku o vine v rozsahu, v ktorom
+	súd prijal jeho vyhlásenie, e je vinnı, alebo vyhlásenie, e nepopiera spáchanie skutku uvedeného v
+	obalobe (§ 307/1b Tr. por.) a to len vo svoj prospech (§ 308/2 Tr. por.),
+	- príbuzní obalovaného v priamom rade, jeho súrodenci, osvojite¾, osvojenec, manel a druh pre
+	nesprávnos vıroku, ktorı sa priamo tıka obalovaného, a to len v jeho prospech (§ 308/2 Tr. por.),
+	- zákonnı zástupca obalovaného, opatrovník obalovaného a obhajca obalovaného pre nesprávnos
+	vıroku, ktorı sa priamo tıka obalovaného, a to len v jeho prospech. Ak je obalovanı pozbavenı
+	spôsobilosti na právne úkony alebo ak je jeho spôsobilos na právne úkony obmedzená, môu poda
+	odvolanie v prospech obalovaného i proti jeho vôli (§ 308/2 Tr. por.),
+	- štátny orgán starostlivosti o mláde pre nesprávnos vıroku, ktorı sa priamo tıka mladistvého
+	obalovaného a to len v jeho prospech, a to aj proti jeho vôli (§ 345/1 Tr. por.),
+	- poškodenı, ktorı uplatnil nárok na náhradu škody, pre nesprávnos vıroku o náhrade škody (§
+	307/1c Tr. por.), a to v neprospech obalovaného (§ 308/1 Tr. por.). Ak je poškodenım právnická osoba,
+	odvolanie môe poda len osoba oprávnená kona za právnickú osobu,
+	- zúèastnená osoba pre nesprávnos vıroku o zhabaní veci (§ 307/1d Tr. por.)
+
+	Osoby oprávnené poda odvolanie proti niektorému vıroku rozsudku môu ho napadnú aj preto, e
+	takı vırok nebol urobenı, ako aj pre porušenie ustanovení o konaní, ktoré predchádzalo rozsudku, ak
+	toto porušenie mohlo spôsobi, e vırok je nesprávny alebo e chıba.

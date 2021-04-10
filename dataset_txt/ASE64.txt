@@ -1,0 +1,162 @@
+Súd:                                 Okresnı súd Bratislava III
+Spisová znaèka:                      3T/34/2017
+Identifikaèné èíslo súdneho spisu:   1317010150
+Dátum vydania rozhodnutia:           12. 01. 2018
+Meno a priezvisko sudcu, VSÚ:        JUDr. Iveta Halvoòová
+ECLI:                                ECLI:SK:OSBA3:2018:1317010150.5
+
+
+	ROZSUDOK V MENE SLOVENSKEJ REPUBLIKY
+
+	Okresnı súd Bratislava III samosudkyòou JUDr. Ivetou Halvoòovou v trestnej veci obalovaného M. Y.
+	pre pokraèovací zloèin neoprávneného vyrobenia a pouívanie platobného prostriedku, elektronickıch
+	peòazí alebo inej platobnej karty pod¾a § 219 odsek 1, odsek 3 písmeno b) Trestného zákona z èasti v
+	štádiu dokonanom, z èasti spáchaného v štádiu pokusu pod¾a § 14 ods. 1 Trestného zákona na hlavnom
+	pojednávaní konanom dòa 12.01.2018 v Bratislave takto
+
+	rozhodol:
+
+
+	obalovanı:
+
+	M. Y.: T.. XX.XX.XXXX D. H., U. H. O.. X I. È.. XX, G. N.,
+
+	uznáva sa za vinného, e
+
+	obvinenı M. Y. v dòoch 09.08.2010 a 29.09.2010 spolu na nezistenom mieste neoprávnene
+	previedol, alebo sa neoprávnene pokúsil previes prostredníctvom internet bankingu z IP adresy è.
+	213.215.116.184 elektronické peniaze klientov spol. Slovenská sporite¾òa, a.s. v prospech úètu è.
+	XXXXXXXXXX/XXXX vedeného v Slovenskej sporite¾ni, a.s. na meno klienta M. Y., T.. XX.XX.XXXX
+	Z. Ú. È.. XXXXXXXXXX/XXXX vedeného v spol. Tatra banka, a.s. na meno M. Y., T.. XX.XX.XXXX
+	tım spôsobom, e bezpeènostné informácie k dole uvedenım úètom Slovenskej sporite¾ne, a.s. vylákal
+	od tıchto klientov prostredníctvom im zaslanıch SMS správ, resp. telefonickıch rozhovorov s nimi
+	vykonávanıch, v ktorıch sa obvinenı vydával za zamestnanca spol. Slovenská sporite¾òa, a.s. (tzv.
+	„phising“) a to nasledovne :
+
+	1.) dòa 07.09.2010 z úètu è. XXXXXXXXX/XXXX vedeného v Slovenskej sporite¾ni, a.s. na meno S.
+	R. neoprávnene previedol na úèet è. XXXXXXXXXX/XXXX finanènú èiastku vo vıške 950,- Eur, èím
+	poškodenej S. R., U. H. C. XXX/XX, H., spôsobil škodu vo vıške 950,- Eur;
+	2.) dòa 17.09.2010 z úètu è. XXXXXXXXXX/XXXX vedeného v Slovenskej sporite¾ni, a.s. na meno ¼.
+	R. neoprávnene previedol na úèet è. XXXXXXXXXX/XXXX finanènú èiastku vo vıške 250,- Eur, prièom
+	v predmetnej veci Slovenská sporite¾òa, a.s. uznala reklamáciu poškodeného a finanèné prostriedky mu
+	vrátila, èím poškodenej spoloènosti Slovenská sporite¾òa, a.s. so sídlom Tomášikova 48, Bratislava,
+	spôsobil škodu vo vıške 250,- Eur;
+	3.) dòa 17.09.2010 z úètu è. XXXXXXXXX/XXXX vedeného v Slovenskej sporite¾ni, a.s. na meno H.
+	S. sa neoprávnene pokúsil previes prostredníctvom elektronického bankovníctva finanènú èiastku v
+	nezistenej vıške a to prostredníctvom aktivácie internetového SMS k¾úèa, prièom dòa 16.09.2010,
+	17.09.2010 a 19.09.2010 vykonal prostredníctvom informácií z platobnej karty è. XXXX XXXX
+	XXXX XXXX vydanej spol. Slovenská sporite¾òa, a.s. klientovi H. S. celkovo devä neoprávnenıch
+	platieb na internetovıch stránkach rôznych spoloèností (www.sk.o2.com <http://www.sk.o2.com>,
+	www.hostbig.com <http://www.hostbig.com>, www.paypoint.net <http://www.paypoint.net>, Neteller UK
+	LTD, www.eurocasinobet.com <http://www.eurocasinobet.com>) v celkovej vıške 415,75 Eur, prièom
+	v predmetnej veci Slovenská sporite¾òa, a.s. uznala reklamáciu poškodeného a finanèné prostriedky
+	mu vrátila, èím poškodenej spoloènosti Slovenská sporite¾òa, a.s. so sídlom Tomášikova 48, Bratislava,
+	neoprávnenım pouitím informácií z nimi vydanej platobnej karty spôsobil škodu v celkovej vıške 415,75
+	Eur a v prípade dokonania trestného èinu by H. S., U. H. C..B.. R. XX, D. Y., by neoprávnenım obstaraním
+	elektronickıch peòazí spôsobil škodu v blišie nezistenej vıške;
+
+	4.) dòa 20.09.2010 z úètu è. XXXXXXXXX/XXXX vedeného v Slovenskej sporite¾ni, a.s. na meno N.
+	C. neoprávnene previedol na úèet è. XXXXXXXXXX/XXXX finanènú èiastku vo vıške 300,- Eur, èím
+	poškodenému N. C., U. H. S. I. È.. XXX, B.. C. H. spôsobil škodu vo vıške 300,- Eur;
+	5.) dòa 23.09.2010 z úètu è. 443619507/0900 vedeného v Slovenskej sporite¾ni, a.s. pre spoloènos
+	GBO, s.r.o. neoprávnene previedol finanènú èiastku vo vıške 6.852 Eur, prièom banka finanèné
+	prostriedky na úète páchate¾a zadrala a dòa 16.11.2010 klientovi spol. GBO, s.r.o. uznala reklamáciu a
+	z tohto dôvodu boli klientovi vrátené vo vıške 6.638,97 Eur, nako¾ko na úète boli na základe exekuèného
+	príkazu stiahnuté prostriedky vo vıške 170,78 Eur a dòa 24.09.2010 sa neoprávnene pokúsil previes
+	prostredníctvom elektronického bankovníctva z úètu spol. GBO, s.r.o. sumu vo vıške 45.000 Eur na
+	úèet è. XXXXXXXXXX/XXXX, èím spol. Slovenská sporite¾òa, a.s. so sídlom Tomášikova 48, Bratislava,
+	spôsobil škodu vo vıške 213,03 Eur a v prípade úspešného prevodu finanènıch prostriedkov by
+	spoloènosti GBO, s.r.o., so sídlom Juná trieda 78, Košice spôsobil škodu vo vıške 45.000,- Eur;
+	6.) dòa 24.09.2010 z úètu è. XXXXXXXXXX/XXXX vedeného v Slovenskej sporite¾ni, a.s. na meno R.
+	S. neoprávnene previedol na úèet è. XXXXXXXXXX/XXXX finanènú èiastku vo vıške 1.000,- Eur, èim
+	poškodenej R. X., M.. S., U. H. B. XXX, Y. T. I., spôsobil škodu vo vıške 1.000,- Eur;
+	7.)dòa 29.09.2010 z úètu è. 423482793/0900 vedeného v Slovenskej sporite¾ni, a.s. na meno U. N.
+	neoprávnene previedol na úèet è. XXXXXXXXXX/XXXX finanènú èiastku vo vıške 500,- Eur, prièom táto
+	transakcia bola bankou zastavená a následne z toho istého úètu vykonal neúspešnı pokus o prevod
+	v èiastke 800,- Eur na úèet è. XXXXXXXXX/XXXX, ktorı bol bankou stornovanı, èím by v prípade
+	dokonania trestného èinu U. N., U. H. F. È.. X, B.. . spôsobil celkovú škodu vo vıške 1.300,- Eur,
+	8.) dòa 09.08.2010 sa pokúsil o neoprávnenı prevod elektronickıch peòazí v celkovej sume 980,-
+	Eur prostredníctvom internet bankingu z IP adresy è. 213.215.116.184 z úètu è. XXXXXXXXXX/XXXX
+	patriaceho klientovi spol. Slovenská sporite¾òa, a.s. B. G., T.. XX.XX.XXXX na C. È.. XXXXXXXXXXX/
+	XXXX vedeného v spol. Slovenskej sporite¾ni, a.s. na meno M. Y., T.. XX.XX.XXXX, prièom neoprávnenı
+	pokus o prevod elektronickıch peòazí v stave spracovania „èakajúci na podpis“ nebol zrealizovanı, èím
+	by poškodenému B. G., U. H. G. XXX/XX, D. v prípade dokonania trestného èinu spôsobil škodu vo
+	vıške 980,- Eur,
+
+	teda
+
+	v bode 1 rozsudku
+	neoprávnene si obstaral elektronické peniaze na úèel poui ich ako pravé,
+
+	v bode 2 rozsudku
+	neoprávnene si obstaral elektronické peniaze na úèel poui ich ako pravé,
+
+	v bode 3 rozsudku
+	v èasti skutku sa dopustil konania bezprostredne smerujúceho k dokonaniu trestného èinu smerujúceho
+	k neoprávnenému obstaraniu si elektronickıch peòazí na úèel poui ich ako pravé a v èasti skutku si
+	neoprávnene obstaral elektronické peniaze na úèel poui ich ako pravé,
+
+	v bode 4 rozsudku
+	neoprávnene si obstaral elektronické peniaze na úèel poui ich ako pravé,
+
+	v bode 5 rozsudku
+	v èasti skutku sa dopustil konania bezprostredne smerujúceho k dokonaniu trestného èinu smerujúceho
+	k neoprávnenému obstaraniu si elektronickıch peòazí na úèel poui ich ako pravé, èím by v prípade
+	dokonania skutku tento spáchal vo väèšom rozsahu a v èasti skutku si neoprávnene obstaral elektronické
+	peniaze na úèel poui ich ako pravé,
+
+	v bode 6 rozsudku
+	neoprávnene si obstaral elektronické peniaze na úèel poui ich ako pravé,
+	v bode 7 rozsudku
+	sa dopustil konania bezprostredne smerujúceho k dokonaniu trestného èinu smerujúceho k
+	neoprávnenému obstaraniu si elektronickıch peòazí na úèel poui ich ako pravé, prièom k dokonaniu
+	èinu nedošlo
+
+	v bode 8 rozsudku
+	sa dopustil konania bezprostredne smerujúceho k dokonaniu trestného èinu smerujúceho k
+	neoprávnenému obstaraniu si elektronickıch peòazí na úèel poui ich ako pravé, prièom k dokonaniu
+	èinu nedošlo,
+
+	èím spáchal
+	v bode 1 a 8 rozsudku
+
+	pokraèovací zloèin neoprávneného vyrobenia a pouívanie platobného prostriedku, elektronickıch
+	peòazí alebo inej platobnej karty pod¾a § 219 odsek 1, odsek 3 písmeno b) Trestného zákona z èasti v
+	štádiu dokonanom, z èasti spáchaného v štádiu pokusu pod¾a § 14 ods. 1 Trestného zákona.
+
+	Za to sa
+	odsudzuje
+
+
+	Pod¾a § 44 Trestného zákona súd u obalovaného
+
+	upúša
+
+	od uloenia súhrnného trestu
+
+	vzh¾adom k trestnému rozkazu Okresného súd Bratislava V sp.zn. 2T/152/2012 zo dòa 05.12.2012 -
+	ppl. dòa 31.1.2013.
+
+	Pod¾a § 287 odsek 1 Trestného zákona súd zaväzuje obalovaného nahradi poškodenım:
+
+	·. S. R., U. H. C. XXX/XX, H., Š. D. D. XXX,- J.;
+	·. Jánovi Paulecovi, trvale bytom Dolnı Moštenec è. 108, okr. Povaská Bystrica škodu vo vıške 300,-
+	Eur;
+
+	·. R. X.Á., M.. S., U. H. B. XXX, Y. T. I., Š. D. D. X.XXX,- J.
+	·. G. G., Z..G.. G. G. U. XX, H., Š. D. D. XXX,XX J..
+
+	odôvodnenie:
+
+
+	Pod¾a § 172 odsek 2 Trestného poriadku toto písomné vyhotovenie rozsudku
+	neobsahuje odôvodnenie, pretoe Okresná prokuratúra Bratislava III a obalovanı sa po jeho vyhlásení
+	vıslovne vzdali práva poda odvolanie.
+
+	Pouèenie:
+
+
+	Proti tomuto rozsudku mono poda odvolanie v lehote 15 dní odo dòa jeho oznámenia na Krajskı súd
+	Bratislava cestou Okresného súdu Bratislava III.
+	Právne neúèinné je odvolanie podané osobou, ktorá sa tohto práva vıslovne vzdala po vyhlásení
+	rozsudku ako aj odvolanie podané osobami oprávnenımi poda odvolanie v prospech obalovaného.

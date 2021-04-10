@@ -1,0 +1,141 @@
+Súd:                                 Okresnı súd Bratislava I
+Spisová znaèka:                      2T/39/2016
+Identifikaèné èíslo súdneho spisu:   1116010541
+Dátum vydania rozhodnutia:           31. 01. 2017
+Meno a priezvisko sudcu, VSÚ:        JUDr. Stanislav Dutko
+ECLI:                                ECLI:SK:OSBA1:2017:1116010541.1
+
+
+	Rozhodnutie
+
+	Rozsudok nadobudol právoplatnos È.k. 2 T 39/2016
+	dòa 31.01.2017.
+
+	ROZSUDOK
+
+	V MENE SLOVENSKEJ REPUBLIKY
+
+	Okresnı súd Bratislava I, pred samosudcom JUDr. Stanislavom Dutkom, na hlavnom pojednávaní
+	konanom dòa 31.01.2017, v trestnej veci obalovaného R. F., pre pokraèujúci zloèin neoprávneného
+	vyrobenia a pouívania platobného prostriedku, elektronickıch peòazí alebo inej platobnej karty pod¾a
+	 § 219 ods. 1, ods. 3 písm. a/, Tr. zák., s pouitím § 138 písm. h/ Tr. zák., a iné, takto
+
+	rozhodol:
+
+
+	rozhodol:
+
+
+	Obalovanı:
+
+	R. F., nar.XX.XX.XXXX/XXXX v ., trvale bytom .,
+	U. H.. È.. XXX/XX,
+
+	sa uznáva za vinného,
+	e
+
+
+	v bode 1)
+	dòa 29.01.2015 vo funkcii samostatného odborného referenta v tíme N. N. D. V. F. a. s., so sídlom
+	Š. X, Bratislava, v èase o 16:18 h z nezisteného miesta neoprávnene telefonicky poiadal ïalšieho
+	zamestnanca banky U. F., zaradenú na poboèke banky v Š., na realizáciu zmeny autentifikaèného
+	zariadenia - tokenu na prihlasovanie a autorizáciu transakcií v systéme internet banking banky pre
+	úèet è. XXXXXXXX/XXXX vedenı na spol. Y.-C. X..É. C.. M..I..Z.., so sídlom U. H. X-X, F., U., IÈO:
+	XXXXXXXX, následne v èase o 19:44 h si neoprávnene zaslal nové heslo do internet bankingu k
+	uvedenému úètu cez sms na svoje telefónne èíslo +XXXXXXXXXXXX, následne v èase o 19:46 h z
+	IP adresy XX.XXX.XXX.XXX realizoval v systéme banky prihlásenie do internet bankingu a vykonal
+	zmenu hesla, ktoré bolo zaslané pred realizáciou platby na telefónne èíslo +XXXXXXXXXXXX, a v èase
+	o 19:50 h obvinenı realizoval transakciu, teda
+	debet
+ z úètu è. XXXXXXXX/XXXX v sume 7 235 Eur v
+	prospech svojho úètu è. XXXXXXXX/XXXX, ktorá bola potvrdená zmenenım tokenom, prièom v období
+	od 29.01.2015 do 05.02.2015 boli vykonané na úète obvineného pod è. XXXXXXXX/XXXX transakcie
+	formou vıberov hotovostí z bankomatov v celkovom poète 10, ïalej cez POS terminály v celkovom
+	poète 24, ïalej hotovostnı vıber dòa 29.01.2015 v sume 2 300 Eur osobou obvineného v poboèke
+	banky Bratislava - Polus, ïalej prevody na splátky úveru obvineného pod è. XXXXXXXX/XXXX v sume
+	97,92 Eur a pod è. XXXXXXXX/XXXX v sume 122,64 Eur, a príkazom na úhradu cez internet banking v
+	prospech úètu è. XXXXXXXX/XXXX v sume 165,68 Eur vedeného na meno T. F.,
+	a
+
+
+	v bode 2)
+	dòa 05.02.2015 vo funkcii samostatného odborného referenta v tíme N. N. D. V. F., R.. F.., v èase o
+	08:34 h z nezisteného miesta neoprávnene zaslal nové heslo do internet bankingu k úètu XXXXXXXX/
+	XXXX vedeného na osobu E. V., nar. XX.XX.XXXX, bytom X. H. XX, V.. XX, U., cez sms na svoje
+	telefónne èíslo +XXXXXXXXXXXX, následne v èase o 11:21 h neoprávnene telefonicky poiadal
+	ïalšieho zamestnanca banky X. M., zaradenú na poboèke banky v Bratislava - Š., na realizovanie
+	zmeny autentifikaèného zariadenia - tokenu na prihlasovanie a autorizáciu transakcií v systéme internet
+	banking banky pre úèet è. XXXXXXXX/XXXX, následne v èase o 15:26 h z IP adresy XX.XXX.XXX.XXX
+	realizoval prihlásenie do internet bankingu a v èase o 15:27 h realizoval transakciu, teda
+	debet
+ z úètu è.
+	XXXXXXXX/XXXX v sume 9 835 Eur v prospech svojho úètu è. XXXXXXXX/XXXX, ktorá bola potvrdená
+	zmenenım tokenom, a teda v období od 06.02.2015 do 09.02.2015 boli vykonané na úète obvineného
+	pod è. XXXXXXXX/XXXX transakcie formou vıberov hotovosti z bankomatov v celkovom poète 5
+	a 2 neúspešné pokusy o vıbery, ïalej cez POS terminály v celkovom poète 3, a prevod finanènıch
+	prostriedkov dòa 05.02.2015 prostredníctvom internet bankingu vo vıške 7 235 Eur v prospech úètu è.
+	XXXXXXXX/XXXX vedeného na F.. Y.-C. X..É. C.. M..I..Z.., prièom dòa 25.02.2015 v èase o 12:13 h
+	opätovne neoprávnene telefonicky poiadal z nezisteného miesta ïalšieho zamestnanca banky K. C.,
+	zaradenú na poboèke Krá¾ovskı Chlmec, o reaktiváciu zrušenej zmluvy o elektronickom bankovníctve
+	pre klientku banky E. V. a v èase o 12:20 h realizovala zmenu autentifikaèného zariadenia na zaslanie
+	sms správ na svoje telefónne èíslo +XXXXXXXXXXXX a realizoval transakciu debetom vo vıške 1 000
+	Eur v prospech svojho úètu è. XXXXXXXX/XXXX, ktoré prostriedky boli v dòa 25.02.2015 vybraté z
+	úètu obvineného cez ATM v celkovom poète 2, ïalej v dòoch 26.02.2015 v èase o 13:08 h z IP adresy
+	XX.XXX.XXX.XXX, 27.02.2015 v èase o 12:21 h z IP adresy XX.XXX.XXX.XX, 28.02.2017 v èase o
+	14:17 h z IP adresy XX.XXX.XXX.XXX, 02.03.2015 v èase o 07:59 h z IP adresy XX.XXX.XXX.XXX a
+	03.03.2015 v èase o 09:51 h z IP adresy XX.XXX.XXX.XXX, sa obvinenı prihlásil do internet bankingu
+	úètu E. V. pod è. XXXXXXXX/XXXX a realizoval debety v prospech svojho úètu è. XXXXXXXX/XXXX v
+	sumách pod¾a vyššie uvedenıch dátumov 1 000 Eur, 1 000 Eur, 1 5000 Eur, 1 200 Eur a 1 000 Eur, ktoré
+	prostriedky boli v období od 26.02.2015 do 03.03.2015 vybraté z úètu obvineného prostredníctvom ATM
+	v celkovom poète 11, ïalej prevodom na splátky úveru obvineného dòa 28.02.2015 pod è. XXXXXXXX/
+	XXXX v sume 145,45 Eur a dòa 28.02.2015 pod è. XXXXXXXX/XXXX v sume 128,40 Eur, ako aj
+	príkazom na úhradu cez internet banking v prospech úètu è. XXXXXXXX/XXXX dòa 02.03.201 v sume
+	175 Eur vedeného na meno T. F.,
+
+	teda
+
+
+	neoprávnene si obstaral platobnı prostriedok a elektronické peniaze a v úmysle zadovái sebe
+	neoprávnenı prospech získal neoprávnenı prístup do poèítaèového systému a vytvoril neautentické
+	dáta s úmyslom, aby sa povaovali za autentické,
+
+	èím spáchal
+
+	pokraèovací zloèin neoprávnené vyrobenie a pouívanie platobného prostriedku elektronickıch peòazí
+	alebo inej platobnej karty pod¾a § 219 odsek 1 odsek 3 písmeno a), písmeno b) Trestného zákona v
+	spojení s § 138 písmeno h) Trestného zákona v súbehu s preèinom poškodenie a zneuitie záznamu
+	na nosièi informácií pod¾a § 247 odsek 1 písmeno d) Trestného zákona v znení úèinnom do 31.12.2015
+
+	za to sa
+
+	odsudzuje
+
+
+	Pod¾a § 219 ods. 3 Tr. zák. s pouitím § 41/1 Tr. zák. §36 písm. l) písm. j), § 38 ods. 3 Tr. zák k úhrnnému
+	trestu odòatia slobody v trvaní 2 roky.
+
+	Pod¾a §49 ods. 1 písm. a), § 50 ods. 1 Tr. zák súd vıkon trestu podmieneène odkladá na skúšobnú
+	dobu 4 roky.
+	Pod¾a § 50 ods. 2 Tr. zák s pouitím §51 ods. 4 písm. c) Tr. zák. súd obalovanému R. F. ukladá povinnos
+	nahradi poškodenej spoloènosti D. V. F., R..F.., Š. H.. È.. X Bratislava, spôsobenú škodu vo vıške
+	16,535€.
+
+
+	Pod¾a § 172 ods. 2 Tr. por. tento rozsudok neobsahuje odôvodnenie, pretoe po vyhlásení rozsudku sa
+	prokurátor aj obalovanı vzdali odvolania.
+
+	Pouèenie:
+
+
+	Pouèenie: Proti tomuto rozsudku je moné poda odvolanie do 15 dní od jeho vyhlásenia
+	prostredníctvom tunajšieho súdu na Krajskı súd v Bratislave.
+	Právne neúèinné je odvolanie podané osobou, ktorá sa práva odvolania vıslovne vzdala.
+
+	V Bratislave: 31.01.2017
+
+	JUDr. Stanislav Dutko
+	samosudca
+
+
+	Za správnos vyhotovenia:
+	Viktória Valkyová

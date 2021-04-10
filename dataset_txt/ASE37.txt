@@ -1,0 +1,262 @@
+Súd:                                 Krajskı súd Trnava
+Spisová znaèka:                      6To/99/2017
+Identifikaèné èíslo súdneho spisu:   2315010721
+Dátum vydania rozhodnutia:           08. 03. 2018
+Meno a priezvisko sudcu, VSÚ:        JUDr. Ján Mihal
+ECLI:                                ECLI:SK:KSTT:2018:2315010721.1
+
+
+	Uznesenie
+
+	Krajskı súd v Trnave, v senáte zloenom z predsedu senátu JUDr. Jána Mihala a sudcov JUDr. Kataríny
+	Batisovej a JUDr. Rastislava Kresla, v trestnej veci obalovaného L. B., nar. XX. N. XXXX v Y., trvale
+	bytom B. è. XXX, pre preèin porušovania autorského práva pod¾a § 283 ods. 1, ods. 2 písm. d) Trestného
+	zákona, o odvolaní prokurátora Okresnej prokuratúry Galanta proti rozsudku Okresného súdu Galanta
+	zo dòa 24. apríla 2017, è. k. 29T/145/2015-260, na verejnom zasadnutí konanom dòa 08. marca 2018
+	v Trnave, takto
+
+	rozhodol:
+
+
+	Pod¾a § 319 Trestného poriadku sa odvolanie prokurátora okresnej prokuratúry
+	zamieta.
+
+
+	odôvodnenie:
+
+
+	Napadnutım rozsudkom zo dòa 24. apríla 2017, è. k. 29T/145/2015-260 Okresnı súd Galanta oslobodil
+	obalovaného L. B. pod¾a § 285 písm. a) Trestného poriadku spod obaloby prokurátora Okresnej
+	prokuratúry Galanta è. 1 Pv 813/13/2202 zo dòa 13. augusta 2015 pre preèin porušovania autorského
+	práva pod¾a § 283 ods. 1, ods. 2 písm. d) Trestného zákona, ktorého sa mal dopusti tak, e v
+	èase od 26. mája 2013 minimálne do 28. júla 2013 v obci B., v rodinnom dome èíslo XXX, ako
+	uívate¾ P2P siete (Peer to Peer) s prezıvkou „N.“, prostredníctvom vo¾ne stiahnute¾ného poèítaèového
+	softwaru BitComet 1.31, ktorı predtım nainštaloval do poèítaèového systému AT Computer, typ Comfort
+	Diablo s pridelenou IP adresou XXX.XXX.XXX.XX, prostredníctvom uzlov „R., neoprávnene poskytol
+	inım uívate¾om internetu vo¾ne k stiahnutiu viac ako 385,53 GB dát, z ktorıch najmenej 26.85 GB
+	tvorili chránené zvukové záznamy a iné hudobné súbory v rôznych formátoch, podliehajúce zákonom
+	chránenım právam k dielu, ktoré sa nachádzali v prieèinku vyššie uvedeného poèítaèového systému
+	pod názvom „MP3“, pretoe nebolo dokázané, e sa stal skutok, pre ktorı je obalovanı stíhanı.
+
+	Pod¾a § 288 ods. 3 Trestného poriadku okresnı súd poškodeného Èeská národní skupina Mezinárodní
+	federace hudebního prùmyslu, z. s. (ÈNS IFPI), IÈO: 00552518, so sídlom Slavíkova 15, 120 00 Praha
+	2, s uplatnenım nárokom na náhradu škody odkázal na civilnı proces.
+
+	Okresnı súd po vykonanom dokazovaní na hlavnom pojednávaní vyhodnotil dôkazy pod¾a svojho
+	vnútorného presvedèenia zaloeného na starostlivom uváení všetkıch okolností prípadu jednotlivo ako
+	aj vo vzájomnıch súvislostiach a rešpektujúc zásadu prezumpcie neviny a z nej vyplıvajúcu zásadu in
+	dubio pro reo (v pochybnostiach v prospech obvineného) a rozhodol tak, e obalovaného spod skutku
+	uvedeného v obalobe oslobodil v zmysle ustanovenia § 285 písm. a) Trestného poriadku.
+
+	Okresnı súd dôkaz „vısledky sledování èinnosti uivatele internetové sítì P2P“ vyhodnotil ako
+	nepouite¾nı pre rozhodnutie vo veci samej, nako¾ko zadokumentovanie získanıch informácii nerobil
+	znalec a tieto ani neboli zadokumentované procesne vyhovujúcim spôsobom v zmysle Trestného
+	poriadku.
+
+	Z vykonaného dokazovania mal okresnı súd za jednoznaène preukázané, e zaistené poèítaèe a router
+	v rámci domovej prehliadky patrili obalovanému, ktorı ich pouíval na adrese svojho pobytu T. XXX,
+	XXX XX B. a to aj na pripojenie sa k sieti internet. Na tıchto poèítaèoch mal okrem iného súbory
+	v prieèinku „MP3“, ktoré boli nastavené na zdie¾anie v rámci internej (domácej) siete, teda v rámci
+	domácnosti obalovaného, prièom túto vyuíval vıluène sám obalovanı. Nie je moné uvies od akého
+	dátumu bol tento prieèinok nastavenı na zdie¾anie. V poèítaèoch mal nainštalovanı program BitComet
+	1.31 slúiaci na zdie¾anie súborov v rámci P2P siete, ktorı však nebol nastavenı tak, aby sa po spustení
+	poèítaèa spustil automaticky a preto bolo na uívate¾ovi èi a kedy si ho spustí. Obalovanı mal pridelenú
+	IP adresu è. XXX.XXX.XXX.XX. Obalovanému pri domovej prehliadke neboli zaistené iadne CD/Blu-
+	ray alebo DVD nosièe.
+
+	Naopak z vykonaného dokazovania pod¾a názoru okresného súdu nebolo jednoznaène preukázané,
+	e by obalovanı akéko¾vek súbory (vrátane súborov chránenıch autorskım právom) zdie¾al mimo
+	svojej „domácej“ siete - teda na sieti internet, èi u v rámci P2P siete, na pripojenie ku ktorej pouíval
+	program BitComet 1.31 alebo mimo nej. Zo znaleckého posudku jednoznaène vyplynulo, e èo sa
+	tıka hudobnıch skladieb, ktoré boli nastavené na zdie¾anie v sieti, tieto boli nastavené na zdie¾anie
+	vo vnútornej („domácej“) sieti obalovaného a èi boli nastavené na zdie¾anie v sieti BitComet 1.31
+	sa zisti nedalo, nako¾ko log tejto siete, t. j. história, bola prázdna. Okresnı súd dospel k záveru,
+	e nako¾ko neexistuje história programu BitComet 1.31, nevie sa ani urèi, èi a kedy dochádzalo k
+	sahovaniu súborov v rámci tejto siete. Rovnako nie je moné zo zaistenıch poèítaèov zisti registráciu,
+	resp. prihlasovanie sa úèastníka pod prezıvkou „N.“ do programov urèenıch na sahovanie a zdie¾anie
+	súborov, resp. na iné servery slúiace k takémuto úèelu.
+
+	Z vyššie uvedeného mal teda okresnı súd za to, e v konaní nebolo preukázané konanie obalovaného,
+	ktorım by neoprávnene zasiahol do zákonom chránenıch práv k dielu, umeleckému vıkonu, zvukovému
+	záznamu alebo zvukovo-obrazovému záznamu, rozhlasovému vysielaniu alebo televíznemu vysielaniu
+	alebo databáze prostredníctvom poèítaèového systému a teda nebolo preukázané, e by spáchal preèin
+	porušovania autorského práva pod¾a § 283 ods.1, ods. 2 písm. d) Trestného zákona.
+
+	Proti tomuto rozsudku zahlásil ihneï na hlavnom pojednávaní prokurátor odvolanie.
+
+	V písomne odôvodnenom odvolaní prokurátor uviedol, e nie je zrejmé z akého dôvodu súd vyhodnotil
+	„vısledky sledování èinnosti uívatele sítì P2P“ ako dôkaz nepouite¾nı pre rozhodnutie vo veci samej.
+	Pod¾a jeho názoru sa jedná o dôkaz, ktorı bol získanı zákonnım spôsobom, v súlade s Trestnım
+	poriadkom, keïe v súlade so základnımi zásadami trestného konania pod¾a § 2 ods. 10 Trestného
+	poriadku právo obstaráva dôkazy majú aj strany, prièom v súlade s § 10 ods. 10 Trestného poriadku
+	stranou je aj poškodenı, prièom toto právo je obsiahnuté aj v § 119 Trestného poriadku.
+
+	Upozornil, e uívate¾ poèítaèa L. B. mal vytvorenıch viacero emailovıch kont, prièom jedno konto mal
+	zaloené na portály spoloènosti Azet, s.r.o. a toto konto malo oznaèenie N.> a teda rovnakú prezıvku
+	pod akou vystupoval aj na sieti P2P.
+
+	Znalec zistil zdie¾anı prieèinok s obsahom digitálnej formy hudobnıch súborov vo formáte *.mp3 s
+	názvom prieèinka „MP3“, ktorı prieèinok obsahuje hudobné skladby, ktoré sú v sieti zdie¾ané, ich poèet
+	je 1490. Súèasou znaleckého posudku je príloha, ktorú tvorí zoznam tıchto skladieb. Preskúmaním
+	zoznamu skladieb je nepochybne zrejmé, e tieto neboli vytvorené ako kópia legálnych CD-nosièov a
+	to s poukazom na formát ich uloenia ako i skutoènos, e pri názvoch skladieb sa nachádza aj odkaz
+	na internetovú stránku, odkia¾ boli tieto skladby stiahnuté.
+
+	Znalec uviedol, e program Bit Comet, ktorı sa nachádzal v zaistenom poèítaèi, slúi ako interná sie.
+	Tento program vyuíva pripojenie na internet, avšak umoòuje len prístup len uívate¾om P2P siete, do
+	ktorej siete majú prístup len tí, ktorí majú predmetnú sie nainštalovanú. P2P siete striktne vyadujú,
+	aby uívate¾ dal na zdie¾anie èas svojho poèítaèa. Na to, aby uívate¾ zdie¾al èas svojho disku, sa
+	vyaduje aktívny úkon uívate¾a a tak tomu bolo aj v danom prípade, ku ktorej skutoènosti sa vo svojom
+	vısluchu na hlavnom pojednávaní obalovanı aj priznal. Tvrdenie, e sa neoboznámil so všeobecnımi
+	obchodnımi podmienkami resp. licenènımi podmienkami neobstojí.
+	Prokurátor ïalej uviedol, e na hlavnom pojednávaní bol vypoèutı ako svedok aj Ing. U. Q., ktorı popísal
+	svoje zistenia v súvislosti so sledovaním uívate¾a, na základe ktorého bolo neskôr podané trestné
+	oznámenie. Uviedol skutoènosti tak ako sú uvedené v skutkovej vete obaloby a svoje zistenia potvrdil na
+	hlavnom pojednávaní. Uviedol, e uívate¾ P2P siete pod prezıvkou „N.“ v alovanom období, najmenej
+	34 krát vykonával èinnos na sieti P2P, prièom IP adresa uívate¾a bola vdy XXX.XXX.XXX.XX.
+	Vyhotovil filelist - zoznam súborov, ktoré boli dané uívate¾om na zdie¾anie v rámci P2P siete pre ïalších
+	uívate¾ov, prièom uviedol minimálne mnostvo neoprávnene zdie¾anıch dát chránenıch autorskım
+	právom. Taktie vyhotovil dátovı nosiè s ukákovımi súbormi z ponuky uívate¾a „N.“ so zoznamom
+	ponúkanıch titulov ako i snímky obrazovky tzv. screenshoty, obsahom ktorıch je zoznam titulov danıch
+	na zdie¾anie v èase sledovania uívate¾a. Súèasne uviedol, e do P2P siete sa je moné prihlási
+	prostredníctvom rôznych programov, nemusí to by ten istı program.
+	Pod¾a názoru prokurátora sa okresnı súd nevysporiadal s dôkazmi v súlade s ustanovením § 2 ods.
+	12, § 168 ods. 1 Trestného poriadku. Má za to, e dôkazy jednoznaène preukazujú, e skutok sa stal,
+	má znaky trestného èinu a spáchal ho obalovanı a teda, e obalovanı ako uívate¾ internetovej siete
+	pod prezıvkou N. prostredníctvom P2P siete neoprávnene poskytol inım uívate¾om siete autorskım
+	právom chránené hudobné diela.
+
+	Z tıchto dôvodov napokon navrhol, aby krajskı súd napadnutı rozsudok zrušil a nariadil okresnému
+	súdu, aby vo veci znovu konal a rozhodol.
+
+	K odvolaniu prokurátora sa vyjadril obalovanı prostredníctvom svojho obhajcu a navrhol odvolanie
+	prokurátora pod¾a § 319 Trestného poriadku ako nedôvodné zamietnu. V rozsiahlom vyjadrení
+	na záver skonštatoval, e dôkaz navrhovanı prokuratúrou
+	in concreto
+„vısledky sledování èinnosti
+	uívatele sítì P2P okresnı súd pod¾a konštantnej judikatúry ve¾mi správne vyhodnotil ako dôkaz
+	nepouite¾nı pre rozhodnutie vo veci samej. Dôkaz nebol zadokumentovanı odbornım znalcom alebo
+	samostatne zárobkovou èinnou osobou spolupracujúcou s Èeskou národní skupinou Mezinárodní
+	federace hudebního prùmyslu a zároveò tento dôkaz je bez právnej relevancie, teda nepouite¾nı
+	pre úèely trestného konania, lebo je nezákonnı, èim je priamo spochybnená objektivita navrhnutého
+	dôkazu. Filelist - zoznam súborov, ktoré boli údajne dané obalovanım na zdie¾anie v P2P siete
+	pre ïalších uívate¾ov obsahuje súbor v zloke oznaèenej ako „Gidi D´Agostino - klipy“, avšak po
+	znaleckom dokazovaní je jednoznaène preukázané, e sa tento súbor v prieèinku MP3 a ani v histórii
+	tohto prieèinku nenachádzal. Tento zoznam je tak nedôveryhodnı a nemôe by pouitı ako relevantnı
+	dôkaz na rozhodnutie vo veci. K zaisteniu akıchko¾vek CD nosièov vôbec neprišlo, teda v konaní
+	nebolo preukázané, e súbory prieèinka MP3 neboli vytvorené ako kópia legálnych CD nosièov a
+	zároveò znaleckı posudok vyhotovenı znalcom z odboru elektroniky doc. Ing. Miroslavom Mokrım,
+	CSc. nevedel jednoznaène urèi, e zoznam skladieb nachádzajúci sa v prieèinku MP3 bol vytvorenı
+	ako kópia legálnych CD nosièov. Program, ktorı sa nachádzal v poèítaèi obalovaného BigComet 1.31
+	bol nastavenı na zdie¾anie vıslovnej na vnútornej sieti, èo vyplıva aj z vypracovaného znaleckého
+	posudku. Vıpoveï svedka Ing. U. Q. nie je vierohodná a v trestnom konaní pod¾a neho nemôe
+	by pouitá ako dôkaz relevantnı na rozhodnutie vo veci. Záver znaleckého posudku okrem iného
+	uvádza, e nie je moné zisti vonkajšiu IP adresu routra, nako¾ko prístup je blokovanı neznámym
+	menom a heslom, v oboch skúmanıch poèítaèoch je nadstavenı na zdie¾anie prieèinok MP3 s obsahom
+	hudobnıch diel a nie je moné zisti od akého dátumu bol tento poèítaè zdie¾anı, na poèítaèi PC
+	AT Computer bol nainštalovanı program BitComet 1.31, z predloenıch poèítaèov nie je moné zisti
+	registráciu, resp. prihlasovanie úèastníka pod prezıvkou N. do programov urèenıch na sahovanie a
+	zdie¾anie súborov, resp. na servery slúiace k takémuto úèelu a nie je moné zisti poèty stiahnutí
+	jednotlivıch súborov, pretoe sa jedná o dynamickı proces, ktorı môe uívate¾ skúmanıch poèítaèov
+	denne meni a torentovı program BitComet má prázdnu históriu stiahnutıch súborov. Z tıchto dôvodov
+	sa tak stotoòuje so závermi okresného súdu.
+
+	Odvolací súd vo veci vykonal verejné zasadnutie, na ktoré sa dostavil zástupca krajskej prokuratúry,
+	obalovanı a jeho obhajca. Verejné zasadnutie sa konalo v neprítomnosti poškodenej spoloènosti,
+	ktorá bola o termíne riadne upovedomená, avšak svoju neúèas na verejnom zasadnutí nijako
+	neospravedlnila.
+
+
+	Zástupca krajskej prokuratúry na verejnom zasadnutí navrhol odvolaciemu súdu odvolaniu prokurátora
+	vyhovie. Obhajkyòa a obalovanı navrhli odvolanie prokurátora ako nedôvodné zamietnu.
+	Krajskı súd v Trnave, ako súd odvolací, postupom uvedenım v ustanovení § 317 ods. 1 Trestného
+	poriadku zistil, e odvolanie proti rozsudku okresného súdu podala procesná strana na to oprávnená, a
+	to proti vıroku, proti ktorému odvolanie poda mohla, prièom tak urobila v lehote ustanovenej v zákone
+	a dospel k zisteniu, e odvolanie prokurátora nie je dôvodné.
+
+	Zo spisového materiálu odvolací súd zistil, e okresnı súd na hlavnom pojednávaní vykonal dokazovanie
+	spoèívajúce vo vısluchu obalovaného L. B., oboznámením znaleckého posudku (è. l. 49 -113),
+	vısluchom znalca Doc. Ing. Miroslava Mokrého, Csc., vısluchom svedka Ing. U. Q. (vrátane preèítania
+	èasti vıpovede svedka Ing. Q. z prípravného konania v súlade s ustanovením § 264 Trestného
+	poriadku) a oboznámením listinnıch dôkazov: list vlastníctva è. XXX (è. l. 133), správa o identite
+	uívate¾a IP adresy è. XXX.XXX.XXX.XX (è. l.136), špecifikácia škody (è. l. 188), zápisnica o vykonaní
+	domovej prehliadky (è. l. 120-123), register trestov (è. l. 193), vıpis z registra priestupkov (è. l. 194),
+	správa z Obce B. (èl. 196), správa zamestnávate¾a (è. l. 197), vısledky sledování èinnosti uivatele
+	internetové sítì P2P (è. l. 138-171), na ktoré neprihliadol v rámci hodnotenia dôkazov, lebo prišiel k
+	záveru, e tento dôkaz nerobil znalec a nebol zadokumentovanı procesne vyhovujúcim spôsobom v
+	zmysle Trestného poriadku.
+
+	Krajskı súd v prvom rade konštatuje, e okresnı súd po podaní obaloby prokurátorom vykonal všetky
+	dôkazy potrebné pre objektívne a zákonné rozhodnutie, tieto dôkazy vyhodnotil individuálne i v ich
+	súhrne pod¾a pravidiel uvedenıch v § 2 ods. 12 Trestného poriadku (a na jedno pochybenie uvedené
+	nišie) a následne sa dopracoval k správnemu rozhodnutiu.
+
+	Následne v odôvodnení napadnutého rozsudku, okresnı súd v súlade s ustanovením § 168 ods. 1
+	Trestného poriadku uviedol, ktoré skutoènosti vzal za dokázané, a o ktoré dôkazy svoje skutkové
+	zistenia oprel, rovnako tak rozviedol akımi právnymi úvahami sa spravoval pri hodnotení vykonanıch
+	dôkazov, najmä ak si navzájom odporujú. Z odôvodnenia rozsudku je zrejmé, akımi právnymi úvahami
+	sa spravoval, keï posudzoval dokázané skutoènosti pod¾a príslušnıch ustanovení zákona.
+
+	Krajskı súd je toho názoru, e odôvodnenie napadnutého rozsudku je presvedèivé, toto vychádza zo
+	skutkového stavu, ako bol tento zistenı na hlavnom pojednávaní, krajskı súd proti nemu nemá iadne
+	vıhrady, a preto si odôvodnenie napadnutého rozsudku v takmer plnej miere osvojuje (s vıhradou
+	uvedenou nišie) a v podrobnostiach na neho poukazuje (avšak s vınimkou o nepouite¾nosti jedného
+	dôkazu, ktorı ale okresnı súd na hlavnom pojednávaní vykonal).
+
+	Odvolací súd k záveru o nepouite¾nosti dôkazu „vısledky sledování èinnosti uivatele internetové sítì
+	P2P“ uvádza, e okresnı súd prišiel k nesprávnemu právnemu záveru, pretoe za dôkaz môe slúi
+	všetko, èo môe prispie na náleité objasnenie veci a èo sa získalo z dôkaznıch prostriedkov, prièom
+	nepouite¾nı je len dôkaz získanı nezákonnım donútením alebo hrozbou takého donútenia. Ide o
+	skutoènosti, o ktorıch sa dozvedel svedok Ing. Q. a ktoré doplòujú v podstate jeho vıpoveï.
+
+	Napriek vyššie uvedenému pochybeniu okresnı súd dospel k správnemu právnemu záveru o tom, e
+	nebolo dokázané, e sa stal skutok, pre ktorı je obalovanı stíhanı.
+
+	Treba poukáza najmä na vıpoveï samotného svedka Ing. Q., ktorı okrem iného na hlavnom
+	pojednávaní nevedel uvies preèo sa súbor, ktorı stiahol ako príklad od obalovaného, nenachádzal na
+	poèítaèi zaistenom pri domovej prehliadke.
+
+	Ïalej treba poukáza na dôkaz nazvanı ako „vısledky sledování èinnosti uivatele internetové sítì P2P“,
+	z ktorého vyplıva, e Ing. U. Q. sledoval èinnos uívate¾a internetovej siete P2P s prezıvkou „N.“
+	a IP adresou PC: XXX.XXX.XXX.XX, prièom pod¾a jeho zistení bola predmetná IP adresa aktívna v
+	internetovej siete P2P prostredníctvom uzlov: R., R. a U. v období 26.5.2013 - 28.7.2013 celkom 34 krát.
+	Ing. U. Q. stiahol od predmetného uívate¾a zoznam ponúkanıch súborov („filelist“), prièom následne
+	overoval, èi v òom uvedené súbory obsahuje aktuálna ponuka uívate¾a na sledovanıch HUBoch.
+	Súbory vo fileliste, ktorı je súèasou vısledkov sledovania boli zoradené pod sebou a nazvané napríklad:
+	„N.>; „N.“. Náhodne skontroloval viac ne desa ponúkanıch súborov a ich obsah presne zodpovedal
+	titulom z filelistu. Po potvrdení tejto skutoènosti vykonal kontrolné stiahnutie náhodne vybranıch súborov,
+	ktorıch TTH (hash) je totonı s tım, ktorı je uvedenı v stiahnutom zozname súborov. Analızou filelistu,
+	ktorı bol stiahnutı od sledovaného uívate¾a, Ing. U. Q. zistil, e uívate¾ „N.“ ponúkal zo svojho poèítaèa
+	zdie¾ané súbory vo ve¾kosti 385,53 GB a zdie¾ané audiovizuálne súbory vo ve¾kosti 26,85 GB. Uvedené
+	bolo zisované cez klienta „Strong DC++“. Od uvedeného uívate¾a bol stiahnutı kontrolnı súbor pod
+	názvom zloky: „Gigi D´Agostino - klipy“. Lokalizáciou predmetnej IP adresy cez vyh¾adávaè W.> dòa
+	31. augusta 2013 Ing. U. Q. zistil umiestnenie predmetnej IP adresy v mieste A..
+
+	Okresnı súd správne poukázal na znaleckı posudok, z ktorého vyplynulo, e hudobné skladby, ktoré
+	boli nastavené na zdie¾anie v sieti, tieto boli nastavené na zdie¾anie vo vnútornej („domácej“) sieti
+	obalovaného a èi boli nastavené na zdie¾anie v sieti BitComet 1.31 sa zisti nedalo, nako¾ko log tejto
+	siete, t. j. história, bola prázdna. Preto sa nevie ani urèi, èi a kedy dochádzalo k sahovaniu súborov
+	v rámci tejto siete.
+
+	Odvolací súd navyše poukazuje na skutoènos, e svedok Ing. Q. náhodne skontroloval len viac ako 10
+	súborov a stiahol len kontrolnı súbor pod názvom zloky Gigi D´Agostino - klipy, ktorı súbor sa ani v
+	poèítaèi zaistenom pri domovej prehliadke nenachádzal a k tejto dôleitej skutoènosti sa ani samotnı
+	svedok Ing. Q. nevedel vyjadri.
+
+	Odvolací súd pripomína, e tvrdenie prokurátora okresnej prokuratúry, e hudobné skladby v prieèinku
+	MP3 neboli vytvorené ako kópia legálnych CD-nosièov, je bez akejko¾vek relevancie k alovanému
+	skutku.
+
+
+	Odvolací súd tak napokon dospel k záveru, e na základe dôkazov vykonanıch na hlavnom pojednávaní
+	nie je moné ustáli, e skutok tak ako je uvedenı v obalobe sa stal. Len na základe tvrdení jedného
+	svedka, ktorı náhodne stiahol len jeden súbor, ktorého existencia v poèítaèi obalovaného nebola ani
+	znaleckım skúmaním preukázaná, nie je moné dospie k opaènému záveru ako dospel okresnı súd.
+
+	S poukazom na vyššie uvedené skutoènosti krajskı súd odvolanie prokurátora pod¾a § 319 Trestného
+	poriadku zamietol ako nedôvodné.
+
+	Pouèenie:
+
+
+	Proti tomuto uzneseniu nie je prípustnı riadny opravnı prostriedok.
