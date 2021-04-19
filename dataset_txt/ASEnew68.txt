@@ -1,0 +1,148 @@
+Súd:                                 Krajskı súd Banská Bystrica
+Spisová znaèka:                      4To/73/2018
+Identifikaèné èíslo súdneho spisu:   6717010497
+Dátum vydania rozhodnutia:           02. 08. 2018
+Meno a priezvisko sudcu, VSÚ:        JUDr. Ján Bobor
+ECLI:                                ECLI:SK:KSBB:2018:6717010497.1
+
+
+	Uznesenie
+
+	Krajskı súd v Banskej Bystrici na verejnom zasadnutí dòa 2. augusta 2018 v senáte zloenom
+	z predsedu senátu JUDr. Jána Bobora a sudcov JUDr. ¼ubomíra Bušíka, PhD. a JUDr. Slavoja
+	Sendeckého prejednal odvolanie okresného prokurátora proti rozsudku Okresného súdu Zvolen z 28.
+	3. 2018, sp. zn. 4T 163/2017 a takto
+
+	rozhodol:
+
+
+	Pod¾a § 319 Tr. por. odvolanie okresného prokurátora zamieta .
+
+	odôvodnenie:
+
+
+	Napadnutım rozsudkom Okresného súdu Zvolen z 28. 3. 2018, sp. zn. 4T 163/2017 bola obalovaná
+	C.. A. U. pod¾a § 285 písm. c/ Tr.por. oslobodená spod obaloby okresného prokurátora sp.zn. 1 Pv
+	436/16/6611-29 zo 6. 9. 2017 pre preèin sprenevery pod¾a § 213 ods. 1, 2 písm. d/ Tr.zák. s poukazom
+	na ust. § 138 písm.h/ Tr.por., keï skutok mala spácha tak,
+
+	ako zamestnanec Z. M. na základe Pracovnej zmluvy zo dòa 02.06.2000 a jej dodatkov vo funkcii
+	úètovníèka, kde sa v èlánku I. bod 3 Dohody o hmotnej zodpovednosti zo dòa 30.06.2015 zaviazala
+	hospodári so zverenımi hodnotami pod¾a najlepšieho svedomia a kona tak, aby zabránila schodku
+	na jej zverenıch hodnotách, dòa 28. júla 2015 v èase o 23:47 hod. s pouitím pracovného poèítaèa
+	v jej kancelárii v priestoroch Mestského úradu M., X. XXX, okres E. z IP adresy èíslo XXX.XXX.X.XX
+	prostredníctvom aplikácie Biznis banking z bankového úètu è. K XXXX XXXX XXXX XXXX XXXX
+	vedeného vo N., a.s., ktorého majite¾om je Mesto M., a ku ktorému mala v tom èase ako jediná prístupové
+	a podpisové heslá a certifikáty na realizáciu platieb z tohto bankového úètu, zadala neoprávnene platbu,
+	t.j. platobnı príkaz v prospech bankového úètu è. K XXXX XXXX XXXX
+	XXXX XXXX v sume 544,- €, prièom táto platba, ktorej predmetom bola úhrada za kúpu 2 ks
+	BITCOINOV na web stránke www.K..sk. bola zadaná pod inštaláciou XBXXX, èíslom dokladu BTID:
+	XXXXXXXXXXXXXXXXXX a potvrdená (podpísaná) certifikátom zo strany obalovanej, ktorım konaním
+	spôsobila Mestu M., so sídlom M., X. XXX, IÈO: 00 319 902 škodu vo vıške 544,- €,
+
+	pretoe nebolo dokázané, e skutok spáchala obalovaná.
+
+	Svoje rozhodnutie zdôvodnil okresnı súd tım, e je nesporné, e skutok sa stal tak, ako je to rozvedené
+	v obalobe okresného prokurátora. Je však otázne, èi skutok spáchala obalovaná s prihliadnutím
+	na vykonané dokazovanie, ako aj z toho, e obalovaná mala prístupové heslá do poèítaèa a Biznis
+	bankingu uloené vo svojej kancelárii pod monitorom a napriek pridelenım bezpeènostnım kódom
+	jednotlivım zamestnancom Mestského úradu M. pre vstup do budovy mestského úradu sa nepodarilo
+	zisti históriu pouitıch kódov z 28.7.2015, keï pod¾a knihy odchodov a príchodov sa uvedeného dòa
+	obalovaná nachádzala na pracovisku od 7.30 h do 15.30 h.
+
+	Proti rozsudku podal v zákonnej lehote odvolanie okresnı prokurátor, prièom svoje rozhodnutie aj
+	písomne zdôvodnil.
+	Pod¾a jeho názoru vykonanım dokazovaním bolo jednoznaène preukázané, e predmetnı skutok
+	sa stal. Aj keï obalovaná poprela spáchanie skutku, bola produkovaná potrebná reaz nepriamych
+	dôkazov, ktoré na seba nadväzovali a ktoré preukazovali vinu obalovanej. V tomto smere poukazoval
+	na vıpoveï svedka P.. K. M., špecialistu IT N., ktorı uviedol, e sa doteraz nestretol s prípadnım
+	prelomením zabezpeèovacieho hesla do Biznis bankingu, pretoe klient musí pre vstup do aplikácie
+	Biznis bankingu zada prihlasovacie meno, prihlasovacie heslo v urèitej forme, s kombináciou ve¾kıch
+	a malıch písmen a èíslic. Taktie znalec P.. Z. A. uviedol, e v èase vykonania prevodu finanènıch
+	prostriedkov nebol vzdialene pripojenı iadny uívate¾, teda buï sa v poèítaèi nachádzal inı program pre
+	vzdialenı prístup, ktorı nebol zistenı alebo bol prevod vykonanı osobou prítomnou pri danom poèítaèi.
+	Domáhal sa potom , aby krajskı súd zrušil napadnutı rozsudok , vec vrátil okresnému súdu na nové
+	prejednanie a rozhodnutie.
+
+	Krajskı súd pod¾a § 317 ods. 1 Tr. por. preskúmal zákonnos a odôvodnenos napadnutıch vırokov
+	rozsudku, proti ktorım odvolate¾ môe poda odvolanie, ako aj správnos postupu konania, ktoré im
+	predchádzalo a zistil, e prvostupòovı súd vykonal všetky dostupné dôkazy, na základe ktorıch ustálil
+	správne skutkovı stav a jeho postup bol v súlade s Trestnım poriadkom, keï pod¾a § 285 písm. c) Tr.
+	por. obalovanú spod obaloby oslobodil.
+
+	Pod¾a § 168 ods. 1 Tr. por. okresnı súd struène a jasne uviedol, ktoré skutoènosti vzal za dokázané
+	a o ktoré dôkazy svoje skutkové zistenia oprel, akımi úvahami sa spravoval pri hodnotení vykonanıch
+	dôkazov, najmä pokia¾ si navzájom odporovali. Z odôvodnenia je zrejmé, ako sa súd vyrovnal
+	s obhajobou obalovanıch a akımi právnymi úvahami sa spravoval, keï posudzoval dokázané
+	skutoènosti pod¾a príslušnıch ustanovení zákona.
+
+	Ako zistil krajskı súd okresnı prokurátor podal na obalovanú C.. A. U. obalobu na Okresnı súd Zvolen
+	dòa 06. 09. 2017 pre preèin sprenevery pod¾a § 213 ods. 1 2 písm. d) Tr. zákona s poukazom na ust.
+	§ 138 písm.h/ Tr.zák.
+
+	Vo veci bolo vytıèené hlavné pojednávanie, obalovaná na hlavnom pojednávaní prehlásila, e je
+	nevinná. Ïalej na hlavnom pojednávaní boli vypoèutí svedkovia S.. M. K., primátor Mesta M., Z. N., ktorı
+	v tom èase pracoval ako správca IT siete pre mesto M., P.. K. F., P.. F. M., P.. N. S., P.. Z. A., znalec v
+	odbore elektrotechnika, ktorı taktie podal znaleckı posudok a ktorı sa nachádza na è.l. 108-118 spisu,
+	prièom zápisnice o vısluchu ïalších svedkov boli preèítané so súhlasom oprávnenıch strán a preèítané
+	boli aj listinné dôkazy.
+
+	Obalovaná C.. A. U. na svoju obranu uvádzala, e v iadnom prípade ako úètovníèka Mesta M.
+	neobjednala 2 ks BITCOINOV cez poèítaè, hoci mala prístupové a podpisové heslá a certifikáty na
+	realizáciu platieb.
+
+	Svedok S.. M. K. uviedol, e sa o celom probléme dozvedel od sekretárky Z. K., potvrdil, e obalovaná
+	pracovala na Z.Q. v M. ako úètovníèka a od decembra 2017 u nepracuje.
+
+	Svedok Z. N. v rozhodnom období pracoval ako správca IT siete pre Mesto M., keï mu obalovaná
+	oznámila, e má problém s poèítaèom, túto skutoènos potvrdil a sám potvrdil, e s poèítaèom boli
+	problémy.
+
+
+	Svedok P.. F. M. v èase spáchanie skutku bol zamestnanı vo N. ako špecialista IT, mal na starosti
+	Biznis banking, keï mu obalovaná povedala, e jej odišiel Hard disk s certifikátom na prístup do
+	Biznis bankingu a potrebuje Biznis banking preinštatolova. Ïalej podrobne vysvet¾ova, e pre vstup do
+	aplikácie Biznis banking musí klient zada prihlasovacie meno vo forme priezviska konkrétneho klienta
+	bez diakriticky. Poèas jeho pôsobenia vo N. sa s podobnım prípadom prelomenia zabezpeèovacieho
+	hesla do Biznis bankingu nestretol.
+
+	V danej veci je potrebné poukáza aj na znaleckı posudok podanı P.. A., znalcom z odboru
+	elektrotechnika - odvetvie riadiaca technika, bezpeènos a ochrana informaènıch systémov, keï uviedol,
+	e v systéme našiel aj logy z programu R. N.. Na systéme nebol nájdenı program na vykonávania
+	prevodov prostredníctvom N.. Cez program R. N. je moné sa vzdialene dosta na poèítaè a pracova s
+	ním. Pod¾a logov programu v èase vykonania prevodu dòa 28.7.2015 o 23.47 h nebol vzdialene pripojenı
+	iadny uívate¾ cez R. N.. Na hlavnom pojednávaní bola preèítaná vıpoveï svedka S. H., konate¾a spol.
+	Simple Coin, s.r.o., z ktorého vyplynulo, e platbu èiastky 544,- € prijala spoloènos Siple Coin, s.r.o., dòa
+	29.09.2015 z bankového úètu, ktorého majite¾om je mesto M. a bola urèená na nákup 2 BITCOINOV.
+	Keïe mestá BITCOINY nikdy nekupujú, pátral po tejto transakcii a spätne tak overoval legitimitu a keï
+	zistil, e Mesto M. omylom BITCOINY kúpilo, objednávku zrušil a peniaze zaslal na úèet mesta.
+	Okresnı súd vyhodnotil všetky vykonané dôkazy a dospel k správnemu názoru, e konanie obalovanej
+	nebolo takého rázu, e by jednoznaène bez akıchko¾vek problémov mohla by ob. C.. A. U. uznaná
+	vinnou pre preèin sprenevery pod¾a § 213 ods. 1, 2 písm.d/ Tr.zák. s poukazom na ust. § 138 písm.h/
+	Tr.zák. Obalovaná jednoznaène poprela spáchanie skutku, keï uvádzala, e v èase uzavretia obchodu
+	nevedela, èo je to vlastne BITCOIN, prihlasovacie heslá do sluobného poèítaèa a do aplikácie Biznis
+	banking mala v kancelárii. Nemala vedomos o tom, e by iná osoba tieto heslá poznala. Kritického
+	dòa 28.07.2015 nebola v práci, bola doma so svojimi rodièmi.
+
+	Okresnı súd správne ustálil, e skutok ako takı, sa stal. Nebolo však jednoznaène dokázané, e skutok
+	spáchala obalovaná. Teda e by obalovaná za pouitia jej pracovného poèítaèa, v jej kancelárii,
+	v priestoroch Mestského úradu M., alebo iného programu pre vzdialenı prístup neoprávnene zadala
+	platobnı príkaz na úhradu za kúpu 2 ks BITCOINOV a mala tak spôsobi škodu vo vıške 544,- €. Túto
+	skutoènos podrobne vysvet¾uje aj okresnı súd vo svojom rozhodnutí a hodnotí dôkazy na str. 10 a 11
+	rozsudku. Nad rámec tıchto dôvodov krajskı súd poukazuje na tú skutoènos, e obalovaná nemala
+	preèo objednáva 2 ks BITCOINOV a spôsobi tak škodu, keï navyše nemono opomenú tú skutoènos,
+	e kritického dòa nebola na pracovisku. V prípade, e by obalovaná aj takto konala a teda objednala 2
+	ks BITCOINOV, táto skutoènos by okamite vyšla na povrch a obalovaná by musela vysvet¾ova svoj
+	postup. V tomto smere by sa jednalo o nelogické konanie obalovanej.
+
+	Správne preto okresnı súd postupoval, keï C.. A. U. pod¾a § 285 písm.c/ Tr.por. oslobodil spod obaloby
+	okresného prokurátora pre preèin sprenevery pod¾a § 213 ods. 1, 2 písm.d/ Tr.zák. s poukazom na ust.
+	§ 138 písm.h/ Tr.zák., pretoe nebolo jednoznaène dokázané, e skutok spáchala obalovaná.
+
+	Z tıchto dôvodov krajskı súd odvolanie okresného prokurátora zamietol.
+
+	Pouèenie:
+
+
+	Proti tomuto rozhodnutiu nie je prípustnı riadny opravnı
+	prostriedok.

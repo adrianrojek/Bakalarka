@@ -1,0 +1,116 @@
+Súd:                                  Okresnı súd Topo¾èany
+  Spisová znaèka:                       1T/86/2013
+  Identifikaèné èíslo súdneho spisu:    4613010291
+  Dátum vydania rozhodnutia:            12.02.2014
+  Meno a priezvisko sudcu, VSÚ:         Mgr. Miroslava Šúleková
+  ECLI:                                 ECLI:SK:OSTO:2014:4613010291.2
+  Oblasti právnej úpravy:               Trestné právo - Majetok
+  Povaha rozhodnutia:                   Prvostupòové nenapadnuté opravnımi prostriedkami
+
+
+	ROZSUDOK V MENE SLOVENSKEJ REPUBLIKY
+
+	Okresnı súd Topo¾èany, v senáte zloenom z predsedníèky senátu Mgr. Miroslavy Šúlekovej a
+	prísediacich èlenov senátu Ing. Janky Kolekovej a Evy Gutwaldovej v trestnej veci proti ob. V. X. pre
+	preèin neoprávneného vyrobenia a pouívania platobného prostriedku, elektronickıch peòazí alebo inej
+	platobnej karty pod¾a § 219 ods. 1 Trestného zákona, na hlavnom pojednávaní konanom dòa
+	12.02.2014 takto
+
+	r o z h o d o l :
+
+	Obalovanı :
+
+	V. X. , nar. XX.XX.XXXX v B., trvale bytom B., P. è. 9, nezamestnanı, t.è. vo vıkone trestu odòatia
+	slobody v ÚVTOS Leopoldov, rozvedenı,
+
+	j e v i n n ı ,  e :
+
+	dòa 07.03.2011 v èase o 17:18:16 hodine prihlásil z presne nezisteného miesta z IP adresy
+	XXX.XXX.XX.XXX cez internet banking a prostredníctvom elektronického bankovníctva internet banking
+	vykonal dòa 07.03.2011 o 17:35:15 hodine neoprávnenı prevod finanènıch prostriedkov vo vıške 995,-
+	Eur z úètu èíslo XXXXXXXXXX/XXXX, vedenom vo VÚB, a.s. poboèka Topo¾èany, ktorı patrí klientovi
+	F. B. na úèet èíslo XXXXXXXXXX/XXXX, ktorého majite¾kou je V. K., nar. XX.XX.XXXX, bytom B., bez
+	adresy, prièom uvedenı prevod bol potvrdenı Grid kartou a následne dòa 08.03.2011 V. K. v B. v
+	poboèke VÚB, a.s. v Schoping palace, Cesta na Senec èíslo 2 uskutoènila z úètu èíslo
+	XXXXXXXXXX/XXXX, ktorı si zaloila na poiadanie obvineného, hotovostnı vıber vo vıške 987,- Eur
+	po odrátaní poplatkov, peniaze následne odovzdala obvinenému, ktorı jej za vıber peòazí vyplatil
+	odmenu vo vıške 100,- Eur, následne obvinenı dòa 08.03.2011 v presne nezistenom èase z presne
+	nezisteného miesta neoprávnene, prostredníctvom elektronického bankovníctva internet banking
+	uskutoènil bezhotovostnı prevod peòazí z bankového úètu èíslo XXXXXXXXXX/XXXX, vedenom vo
+	VÚB, a.s., poboèka Topo¾èany, patriaceho klientovi F. B., nar. XX.XX.XXXX, na úèet Èeskoslovenskej
+	obchodnej banky èíslo XXXXXXXX/XXXX, ktorého majite¾om je spoloènos Telefónica O2 Bratislava,
+	ako platbu vo vıške 20,- Eur, èím poškodenému F. B. spôsobil celkovú škodu vo vıške 1.015,- Eur,
+
+	t e d a :
+
+	- neoprávnene si obstaral platobnı prostriedok na úèel poui ho ako pravı a na takı úèel ho pouil,
+
+	t ı m s p á c h a l :
+
+	- preèin neoprávneného vyrobenia a pouívania platobného prostriedku, elektronickıch peòazí alebo
+	inej platobnej karty pod¾a § 219 ods. 1 Trestného zákona.
+
+	Pod¾a § 44 Tr. zák. súd u p ú š  a od uloenia súhrnného trestu obalovanému, pretoe povauje
+	trest uloenı mu rozsudkom Okresného súdu Bratislava V. sp. zn. 5T/145/2012 zo dòa 11.01.2013 v
+	spojení s uznesením Krajského súdu v Bratislave sp. zn. 1To/64/2013 zo dòa 26.6.2013 na ochranu
+	spoloènosti a na nápravu obalovaného za dostatoènı.
+
+	Pod¾a § 287 ods. 1 Tr. por. súd ukladá obalovanému, aby nahradil poškodenému F. B., nar.
+	XX.XX.XXXX , bytom V. 104, škodu vo vıške 1.015,- Eur.
+
+	o d ô v o d n e n i e :
+
+	Okresná prokurátorka v Topo¾èanoch podala na tunajšom súde dòa 13.11.2013 obalobu na
+	obvineného V. X. pre preèin neoprávneného vyrobenia a pouívania platobného prostriedku,
+	elektronickıch peòazí alebo inej platobnej karty pod¾a § 219 ods. 1 Tr. zák. na skutkovom základe
+	obaloby sp. zn. Pv 275/2011.
+	Obalovanı na hlavnom pojednávaní urobil vyhlásenie pod¾a § 257 ods. 1 písm. b/ Tr. por., teda, e
+	je vinnı zo spáchania skutku uvedeného v obalobe a keïe na otázky uvedené v § 333 ods. 3 písm.
+	c/, d/, f/, g/ a h/ Tr. por. odpovedal „áno“, súd jeho vyhlásenie pod¾a § 257 ods. 7 Tr. por. prijal a
+	zároveò pod¾a § 257 ods. 8 Tr. por. vyhlásil, e dokazovanie v rozsahu, v akom obalovanı priznal
+	spáchanie skutku sa nevykoná a vykoná dôkazy súvisiace s vırokom o treste, náhrade škody a
+	ochrannom opatrení.
+	Súd na hlavnom pojednávaní vykonal dokazovanie preèítaním a oboznámením listinnıch dôkazov, a to
+	najmä znaleckého posudku znalca z odboru zdravotníctvo a farmácia, odvetvie psychiatria MUDr.
+	Eduarda Višòovského, správ o povesti obalovaného, odpisu z registra trestov a obsahu pripojenıch
+	spisov.
+
+	Zo znaleckého posudku MUDr. Eduarda Višòovského vyplıva, e obalovanı je chorobne závislı od
+	viacerıch psychoaktívnych látok, aktuálne vynútene abstinuje, keïe je vo vıkone trestu odòatia
+	slobody. V minulosti absolvoval mnostvo ústavnıch aj ambulantnıch lieèení, k lieèbe nie je
+	motivovanı, jeho lieèba nie je indikovaná a nie je ani potrebné skúma jeho duševnı stav dvoma
+	znalcami z odvetvia psychiatria.
+	Obalovanı v súèasnosti vykonáva trest odòatia slobody v ÚVTOS a ÚVV Leopoldov, odkia¾ je
+	hodnotenı kladne, z odpisu z registra trestov ako aj z obsahu pripojenıch spisov vyplıva, e v
+	poslednıch 10 rokoch bol viackrát súdne trestanı.
+	Naposledy bol rozsudkom Okresného súdu Bratislava 5 sp. zn. 5T/145/2012 zo dòa 11.1.2013 v
+	spojení s uznesením Krajského súdu v Bratislave sp. zn. 1To/64/2013 zo dòa 26.6.2013 uznanı vinnım
+	z preèinu nadrovania pod¾a § 339 ods. 1 Tr. zák. a z preèinu krivej vıpovede a krivej prísahy pod¾a §
+	346 ods. 2 Tr. zák. a bol mu uloenı súhrnnı trest odòatia slobody v trvaní 5 rokov nepodmieneène a
+	na vıkon trestu bol zaradenı do ústavu na vıkon trestu so strednım stupòom stráenia. Súd zároveò
+	zrušil vırok o treste uloenom obalovanému za zloèin pod¾a § 172 ods. 1 Tr. zák. rozsudkom
+	Okresného súdu Bratislava 3 sp. zn. 46T/119/2011 zo dòa 7.2.2012, ktorı v ten istı deò nadobudol
+	právoplatnos.
+
+	V danom prípade prichádzalo do úvahy uloenie súhrnného trestu, keïe obalovanı spáchal trestnı
+	èin skôr, ako bol okresnım súdom vyhlásenı odsudzujúci rozsudok za inı jeho trestnı èin. Súd pri
+	úvahách o urèení druhu trestu a jeho vımery prihliadol na spôsob spáchania èinu a jeho následok, na
+	zavinenie, pohnútku, na osobu obalovaného, jeho pomery a monos jeho nápravy, zistil po¾ahèujúcu
+	okolnos a to, e sa k spáchaniu trestného èinu priznal a o¾utoval ho, zistil priaujúcu okolnos a to, e
+	spáchal viac trestnıch èinov.
+	S prihliadnutím na všetky skutoènosti, na ktoré je povinnı prihliadnu pri urèení druhu trestu a jeho
+	vımery, súd od uloenia súhrnného trestu pod¾a § 44 Tr. zák. upustil, pretoe povauje trest, ktorı bol
+	obalovanému uloenı rozsudkom Okresného súdu Bratislava 5 sp. zn. 5T/145/2012 zo dòa 11.1.2013
+	v spojení s uznesením Krajského súdu v Bratislave sp. zn. 1To/64/2013 zo dòa 26.6.2013 vo vımere 5
+	rokov na ochranu spoloènosti a na nápravu obalovaného za dostatoènı.
+	Poškodenı F. B. v prípravnom konaní riadne a vèas uplatnil nárok na náhradu škody, obalovanı
+	prehlásil, e škodu je ochotnı uhradi, preto súd uloil obalovanému, aby poškodenému nahradil
+	škodu pod¾a ním uplatneného nároku, teda vo vıške 1.015 eur.
+
+	Pouèenie:
+
+
+	Proti tomuto rozsudku mono poda odvolanie do 15 dní odo dòa jeho oznámenia prostredníctvom
+	tunajšieho súdu na Krajskı súd v Nitre. Oznámením rozsudku je jeho vyhlásenie v prítomnosti toho,
+	komu treba rozsudok doruèi. Ak sa rozsudok vyhlásil v neprítomnosti takejto osoby, oznámením je a
+	doruèenie rozsudku.

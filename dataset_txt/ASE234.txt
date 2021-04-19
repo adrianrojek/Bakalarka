@@ -1,0 +1,237 @@
+Súd:                                  Okresnı súd Košice II
+  Spisová znaèka:                       6T/35/2012
+  Identifikaèné èíslo súdneho spisu:    7212010400
+  Dátum vydania rozhodnutia:            17.06.2014
+  Meno a priezvisko sudcu, VSÚ:         JUDr Ján Lokša
+  ECLI:                                 ECLI:SK:OSKE2:2014:7212010400.2
+  Oblasti právnej úpravy:               Trestné právo - Všeobecne nebezpeèné a proti ivotnému prostrediu
+  Povaha rozhodnutia:                   Prvostupòové nenapadnuté opravnımi prostriedkami
+
+
+	ROZSUDOK V MENE SLOVENSKEJ REPUBLIKY
+
+	Okresnı súd Košice II, samosudcom JUDr. Jánom Lokšom, na hlavnom pojednávaní konanom dòa
+	17.6.2014, takto
+
+	r o z h o d o l :
+
+	Pod¾a § 285 písm. c) Trestného poriadku oslobodzuje obalovaného O.. D. R., nar. XX.X.XXXX, trvale
+	bytom P., ul. H. U. è. XX, spod obaloby prokurátora Okresnej prokuratúry Košice II sp. zn. 4Pv
+	435/2011 - 20 zo dòa 15.3.2012, pre skutok právne kvalifikovanı ako pre preèin porušovania
+	autorskıch práv pod¾a § 283 ods. 1, ods. 2 písm. a), písm. d) Trestného zákona, ktorého sa mal
+	dopusti na tom skutkovom základe,
+	 e
+
+	prostredníctvom internetu v období najmenej od 16.12.2010 do 24.2.2011 v Košiciach, na ulici H. U. è.
+	XX ako uívate¾ P2P (Peer To Peer) vımennej siete pod prezıvkou "DoDo" poskytol z poèítaèa,
+	ktorému bola pridelená poskytovate¾om internetu IP adresa 91.127.170.123 a od 23.2.2011 do konca
+	uvedeného obdobia z poèítaèa s IP adresou 78.98.220.164, zo zdie¾anej zloky pod názvom "new" cez
+	program StrongDC++ na Hub-e "ATLANTIS" 62,4 GB dát, z toho 8.234 .mp3 súborov, 88 .wma
+	súborov, 29 .avi súborov, 4 .mpeg súbory a 1 .ogg súbor, ktoré dal takto k dispozícii inım uívate¾om
+	internetu bez súhlasu oprávnenıch osôb, èím svojím konaním spôsobil M. E. fL. O. M. of the H. O. (M.
+	O.) so sídlom na P. 7, H., M. republika škodu vo vıške 6.220,- €;
+	- pretoe nebolo dokázané, e skutok spáchal obalovanı.
+
+	Pod¾a § 288 ods. 3 Trestného poriadku súd odkazuje M. F. E. M. so sídlom na P. X, H., M. republika s
+	uplatnenım nárokom na náhradu škody na konanie o obèianskoprávnych veciach.
+
+	o d ô v o d n e n i e :
+
+	J. vykonal na hlavnom pojednávaní dokazovanie vısluchom obalovaného, vısluchom
+	splnomocneného zástupcu poškodeného, vısluchom znalcov, preèítaním znaleckıch posudkov a
+	listinnıch dôkazov.
+	Obalovanı spáchanie trestného èinu poprel. Vo svojej vıpovedi a v odpovediach na poloené otázky
+	obalovanı pred súdom uviedol, e dáta s multimediálnym obsahom prostredníctvom internetu nešíril
+	tak ako je uvedené vo vıroku obaloby a s tımto úmyslom.
+	Ïalej vypovedal, e v inkriminovanej dobe poèítaè vôbec neuíval, tento sa nachádzal v obıvaèke
+	rodinného domu, druhı bol notebook. Oba poèítaèe kúpili jeho rodièia ako zariadenie do domácnosti.
+	Zdôraznil, e je absolventom stavebnej fakulty Technickej univerzity so zameraním na riadenie a
+	manament stavebnej vıroby a pre svoju prácu ani štúdium poèítaè v podstate ani nepotreboval.
+	Okrem obalovaného mali k poèítaèu prístup jeho rodièia, jeho sestra, prípadne jeho kamaráti alebo
+	ich známi.
+	Obalovanı program StrongDC ++ do poèítaèa neinštaloval a nevedel sa vyjadri, kto tak mohol urobi.
+	Nevedel sa vyjadri k tomu akım spôsobom bol ich poèítaè k internetu pripojenı. Zmluvu o poskytovaní
+	internetovıch sluieb uzatváral jeho otec D. R.. Prezıvku DoDo nevyuíval, multimediálny obsah si z
+	internetu nesahoval a nevedel sa vyjadri ani k tomu, kto túto prezıvku uíval.
+	K vıpovedi splnomocneného zástupcu poškodenej spoloènosti sa vyaduje uvies, e sa zároveò jedná
+	aj o osobu, ktorá bola poškodenou spoloènosou splnomocnená na získavanie informácii o nelegálnom
+	šírení hudobnıch a obrazovıch diel prostredníctvom Internetu.
+	O.. H. T. ako svedok pred súdom vypovedal, e pracuje na základe dohody o vykonaní práce pre M. F.
+	E. fL.. Jeho úlohou je zisova a odha¾ova ilegálne šírenı multimediálny obsah pri ktorom dochádza k
+	porušeniu autorského zákona.
+	Svedok potvrdil, e z poèítaèa, ktorého IP adresu vypátral, v dobe od 16.12.2010 do 24.2.2011 bolo
+	moné stiahnu multimediálne súbory v rozsahu 92 GB dát. V tom èase to bol ve¾mi vıznamnı a aktívny
+	šírite¾ multimediálneho obsahu, na dnešné pomery u toto èíslo nie je a tak vıznamné.
+	Svoju èinnos realizoval tım, e si pre úèely odha¾ovania neoprávnene šíreného multimediálneho
+	obsahu sám nainštaloval program StrongDC++, na ktorom bol prihlásenı pod prezıvkou, ktorú z
+	taktickıch dôvodov prezradi nemohol. Osobu pod prezıvkou DoDo si vytypoval pod¾a objemu
+	zdie¾anıch dát cestou uzla „ATLANTIS“. Hub „ATLANTIS“ je program uloenı niekde na serveri, ktorı
+	umoòuje vzájomnú spoluprácu medzi osobami, ktoré vyadujú multimediálny obsah a ktoré ho
+	zároveò ponúkajú. Takto sa dopracoval k osobe pod prezıvkou DoDo, ktorá mala v ponuke 92 GB
+	multimediálneho obsahu, ktoré ponúkla na ïalšie šírenie. Zo zoznamu súborov nachádzajúcich sa v
+	jeho poèítaèi (príloha podania poškodeného è. 2 - è.l. 10 - 13) si vybral album od speváka 50 Cent,
+	ktorı si stiahol a tak sa presvedèil, e sa jedná o dielo, ktorého ïalšie šírenie je chránené autorskım
+	zákonom Èeskej aj Slovenskej republiky.
+	Po oboznámení sa s tabu¾kou na è. l. 10 svedok spresnil, e túto prílohu vyhotovil záznamom
+	programu StrongDC++ dòa 16.12.2010. Z tejto je zrejmé, e uívate¾ P2P siete pod prezıvkou DoDo
+	zdie¾al 91,50 GB multimediálneho obsahu. Je ïalej zrejmá a zvıraznená IP adresa jeho poèítaèa, ïalej
+	je z tejto tabu¾ky zrejmé, e v tom èase bol (DoDo) neaktívny, rıchlos poskytovania multimediálneho
+	obsahu bola 0 B/sek.
+	Z prílohy na è. l. 12 je zrejmé, e svedok O.. H. T. si prostredníctvom programu StrongDC ++ dòa
+	16.12.2010 stiahol album od speváka 50 Cent. Keïe v èase, keï si svedok spomínanı album sahoval
+	boli cez spomínanı program pripojení viacerí ponúkatelia multimediálneho obsahu, svedok pripustil, e
+	sa spomínanı album sahoval aj od nich.
+	Provider - poskytovate¾ internetovıch sluieb, na ktorom bol nainštalovanı Hub „ATLANTIS“ sa
+	nachádzal na území Èeskej republiky v Olomouci.
+	Súd svedka poiadal, aby odstránil pochybnosti o totonosti osoby vystupujúcej pod prezıvkou DoDo,
+	keïe v ním vyhotovenej prílohe dòa 23.2.2011 (na è.l. 13) síce svedok hovorí o tom, e na Hub-e
+	„ATLANTIS“ bola èinná osoba s menom DoDo avšak zoznam ponúkaného multimediálneho obsahu a
+	IP adresa boli odlišné ako v prípade osoby, ktorú sledoval dòa 16.12.2010.
+	Svedok O.. H. T. uviedol, e poskytovate¾ internetovıch sluieb z dôvodu optimálneho vyaenia siete
+	poskytuje jednotlivım uívate¾om tzv. dynamické IP adresy, ktoré identifikujú jednotlivé poèítaèe. On
+	dospel k presvedèeniu, e osoba evidovaná pod prezıvkou DoDo na Hub-e „ATLANTIS“ je totoná s
+	predchádzajúcou osobu, keïe zoznam ponúkaného multimediálneho obsahu bol podobnı s
+	predchádzajúcim zoznamom, aj keï potvrdil skutoènos, e v druhom prípade bol objem
+	multimediálneho obsahu iba v objeme 54,41 GB.
+	K tomu, ako svedok mal stotoni umiestnenie obalovaného pod¾a jeho IP adresy svedok uviedol, e
+	sa mu podarilo stotoni iba poskytovate¾a internetovıch sluieb a to spoloènos Slovak Telekom, a.s..
+	K tomu, ako bola vyèíslená a špecifikovaná škoda spôsobená trestnım èinom svedok O.. H. T. uviedol,
+	e objem zdie¾anıch multimediálnych dát bol vynásobenı èiastkou 2.800 Kè za 1 GB zdie¾anıch dát. V
+	tomto prípade sa jedná o predbené vyèíslenie škody na základe vlastnıch zistení. Odborné vyjadrenie
+	s koneènım vyèíslením škody by mohol poškodenı vyhotovi a po zoznámení sa s vısledkami
+	expertného skúmania zabezpeèeného v prejednávanom prípade. Keïe poškodenému neboli
+	predloeného závery znaleckého skúmania, škoda uvedená v trestnom oznámení v podstate
+	nezodpovedá konkrétnym skutoènostiam. Presnú vıšku škody by poškodenı vedel urèi iba po
+	špecifikácii titulov, ktoré preukázate¾ne boli neoprávnene šírené. V prípade obalovaného D. R. by
+	poškodenı vedel stanovi iba škodu albumu 50 Cent.
+	Na podklade zistenia OO PZ Bratislava - Staré mesto - Vıchod, e dòa 23.2.2011 bola IP adresa
+	78.98.220.164 pridelená poskytovate¾om internetovıch sluieb - Slovak Telekom, a.s. Bratislava D. R.
+	(bytom P., H. U.. è. XX) podnet na trestné stíhanie bol odstúpenı OO PZ Košice - Nad Jazerom dòa
+	24.5.2011. Po zaèatí trestného stíhania dòa 18.7.2011 vydal D. R. poèítaè policajnım orgánom, ktoré
+	ho dòa 20.7.2011 odovzdali znalcovi O.. S. G. za úèelom vypracovania znaleckého posudku.
+	Zo znaleckého posudku z odboru Elektrotechniky a z vıpovede znalca O.. S. Gajdoša vypoèutého na
+	hlavnom pojednávaní súd zistil, e na základe správy poskytovate¾a internetovıch sluieb - Slovak
+	Telekom, a.s. Bratislava - je moné zisti iba to, e IP adresa, o ktorej hovoril poškodenı, bola
+	dynamicky pridelená koncovému zariadeniu, ktorım bol v prejednávanom prípade nie poèítaè ale
+	router. Pod¾a zmluvy o poskytovaní internetovıch sluieb bol koncovım odberate¾om D. R.. Slovak
+	Telekom, a.s. poskytuje IP adresy dynamicky a tieto mení raz za 24 hodín. Konkrétnu osobu, ktorá mala
+	komunikova prostredníctvom internetu na serveri „ATLANTIS“ znalec stotoni nevedel. Taktie z
+	dostupnıch údajov sa nedá zisti akı obsah mali súbory, ktoré boli odosielané z poèítaèa pripojeného
+	na router koncového uívate¾a. Zdôraznil, e sa jednalo o bezdrôtové Wi-Fi zariadenie, ku ktorému sa
+	mohol pripoji kadı, kto poznal meno a heslo za predpokladu, e tımito bol router zabezpeèenı. V
+	èase, keï tento router mal znalec k dispozícii bolo moné pripoji sa k internetu prostredníctvom
+	spomínaného routera bez zadania mena a hesla.
+	Na podklade predloenıch informácií i na podklade odbornej èinnosti sa znalcovi nepodarilo stotoni
+	konkrétnu fyzickú osobu ako páchate¾a trestného èinu uvedeného v obalobe. K routeru D. R., ktorı
+	nebol špeciálne zabezpeèenı sa mohol pripoji ktoko¾vek.
+	Na otázku obhajcu, èi v dobe od 16.12.2010 do 24.2.2011 došlo ku komunikácii medzi zaistenım
+	poèítaèom a serverom „ATLANTIS“, ktorej vısledkom bolo zdie¾anie multimediálnych súborov, sa
+	znalec nemohol jednoznaène vyjadri. Ïalej dodal, e nie je moné urèi, èi multimediálne súbory
+	nájdené v poèítaèi vo formátoch .mp3, .wma, .avi, .mpeg, .ogg boli chránené. Znalec sa vedel vyjadri
+	iba k poètu a objemu takıch súborov, nie však k ich obsahu a k typu súboru. Zdôraznil, e na internete
+	je ve¾a multimediálneho obsahu legálne šíreného, ktorı obsahuje uvedenú príponu.
+	Znalec potvrdil, e na poèítaèi, ktorı obalovanı vydal, bola zaznamenaná aplikácia programu Strong
+	DC++, ktorú nie je nutné inštalova do systému. Pripustil, e táto aplikácia Strong DC++ sa mohla
+	nainštalova do poèítaèa aj bez vedomia uívate¾a, aj keï sa s tım v praxi nestretol.
+	V tejto aplikácii muselo by ruène nastavené uívate¾om programu Strong DC++ miesto, v ktorom sa
+	nachádzajú súbory s multimediálnym obsahom urèené na zdie¾anie. Pouívate¾ aplikácie Strong DC++
+	je schopnı ovplyvni, aké súbory sa budú prostredníctvom tejto aplikácie ïalej šíri za predpokladu, e
+	nastaví ve¾kos zdie¾anej zloky iba v minimálnom rozsahu dát, ak to vyaduje server, na ktorı sa
+	pripája. Toto je však u zásah smerujúci k tomu, aby sa server vyadujúci zdie¾anie multimediálnych
+	súborov oklamal. Server vyaduje ve¾kos zloky, z ktorej sa poskytuje zdie¾anı obsah. Èo tvorí obsah
+	zdie¾anıch súborov nie je podstatné.
+	Na otázku, kedy aplikácia Strong DC++ bola na poèítaèi zaisteného obalovanému nainštalovaná sa
+	znalec vyjadri nevedel.
+	V závere svojho vystúpenia pred súdom znalec Ing. S. Gajdoš zdôraznil, e údaje poskytnuté
+	poškodenou spoloènosou M. O. M. republika nie je moné poui ako dôkaz, e D. R. spáchal skutok,
+	pre ktorı bol obvinenı.
+	Pod¾a záverov znalca Ing. Romana Gajdoša, dá sa preukáza iba to, e medzi zariadením s IP
+	adresou, ktorá bola poskytnutá D. R. poskytovate¾om internetovıch sluieb (Slovak Telekom, a.s.),
+	došlo ku spojeniu so serverom „ATLANTIS“, na ktorom bol evidovanı zoznam zdie¾anıch
+	multimediálnych súborov z poèítaèa, ktorı bol vydanı D. R.. Znalec zároveò potvrdil, e k prenosu
+	súborov v skutoènosti nemuselo dôjs. Poškodená organizácia v rámci svojej èinnosti zistila len ve¾kos
+	zdie¾anej zloky spolu s názvami súborov, ktoré sa v tejto zloke nachádzali.
+	K vıpovedi svedka O.. H. T., e od osoby vystupujúcej pod prezıvkou DoDo si sahoval multimediálny
+	súbor (album 50 Cent), ktorı bol uvedenı v jeho zdie¾anıch prieèinkoch znalec zdôraznil, e v
+	skutoènosti nedochádzalo k sahovaniu súboru len z tohto poèítaèa, ale z viacerıch zdrojov, ktorı tento
+	multimediálny súbor mali taktie urèenı na zdie¾anie. Podstatou programu Strong DC++ je u¾ahèenie
+	sahovania, teda umonenie sahovania z viacerıch zdrojov súèasne, teda nielen od napr.
+	obalovaného ale aj od inıch uívate¾ov, ktorí poadovanı súbor vlastnili.
+	Po vykonaní všetkıch navrhovanıch dôkazov prokurátor navrhol u obalovaného uzna skutok aj vinu
+	v zmysle podanej obaloby. Poukázal pritom na vıpoveï svedka O.. H. T. a znaleckı posudok Ing.
+	Romana Gajdoša, z ktorıch je nepochybné, e osoba pod prezıvkou DoDo sa dopustila trestnej
+	èinnosti uvedenej vo vıroku obaloby. Ïalej poukázal na to, e pri inštalovaní programu Strong DC ++
+	nemôe dôjs k jeho náhodnému nainštalovaniu, ale e sa vyaduje uvedomelá èinnos fyzickej osoby.
+	Spôsobená škoda pod¾a názoru prokurátora bola dostatoène vyèíslená poškodenou organizáciou.
+	Vzh¾adom na osobu obalovaného, ktorı doposia¾ nebol súdom trestanı, prokurátor navrhol uloenie
+	trestu povinnej práce.
+	Obhajoba v závereènej reèi navrhla, aby súd oslobodil obalovaného spod obaloby, keïe nebolo
+	preukázané, e obalovanı spáchal skutok, ktorı mu je kladenı za vinu. Poèítaè, ktorı bol vydanı
+	policajnım orgánom obalovanému nepatrí, nie je klientom spoloènosti poskytujúcej internetové
+	pripojenie a nie je ani vlastníkom routera, prostredníctvom ktorého, mal by poèítaè pripojenı do siete
+	internet. Keïe od okamihu prevzatia doliènej veci - poèítaèovej zostavy èiernej farby s DVD
+	napa¾ovaèkou do okamihu jeho vydania znalcovi za úèelom znaleckého skúmania ubehla doba takmer
+	dvoch dní, nebolo jednoznaène preukázané v akom stave bol poèítaè odòatı obalovanému a vydanı
+	znalcovi. Pod¾a názoru obhajoby nie je moné vylúèi, e program Strong DC ++ mohol by
+	nainštalovanı dodatoène a e s poèítaèom mohlo by manipulované do zaèiatku znaleckého skúmania.
+	Ïalej obhajoba namieta, e neboli zistené iadne dôkazy svedèiace o tom, e práve obalovanı O.. D.
+	R. bol tou istou osobou ako osoba vystupujúca pod prezıvkou DoDo, ktorá sa mala pripoji na server
+	„ATLANTIS“ s úmyslom ilegálne šíri obsah chránenı autorskım právom. Pritom obhajoba poukázala
+	na vıpoveï znalca, ktorı potvrdil, e poèítaè nebol iadnym spôsobom chránenı na úrovni operaèného
+	systému menom a heslom, mohol ho zapnú ktoko¾vek. Taktie nebol špeciálne chránenı ani Wi-Fi
+	router, cez ktorı sa pripájal poèítaè do internetu prostredníctvom poskytovate¾a internetovıch sluieb
+	spoloènosti Slovak Telekom, a.s. Zistená IP adresa routera bola poskytovate¾om spoloènosti Slovak
+	Telekom, a.s pridelená routeru uívate¾a D. R., iba dòa 23.2.2011.
+	Taktie nebolo preukázané, aby multimediálny obsah, ktorı bol zistenı na poèítaèi zaisteného
+	obalovanému, bol aj v skutoènosti šírenı, keïe na serveri „ATLANTIS“ bol uvedenı iba zoznam
+	multimediálnych diel a ve¾kos prieèinku urèeného na zdie¾anie. Obhajoba poukázala na vıpoveï
+	zástupcu poškodenej organizácie, ktorı vo svojej vıpovedi pred súdom nevedel špecifikova vıšku
+	spôsobenej škody, a preto s uplatnenım nárokom špecifikovanım v prípravnom konaní súhlasi nie je
+	moné.
+
+	Obalovanı O.. D. R. zotrval na svojom vyhlásení, e sa cíti by v tejto veci nevinnı. Zdôraznil, e
+	nemal úmysel šíri diela s multimediálnym obsahom.
+	Po vyhodnotení vykonanıch dôkazov súd dospel k záveru, e nebolo bez akıchko¾vek pochybností
+	preukázané, e O.. D. R. spáchal skutok, z ktorého bol obalovanı.
+	Preèinu porušovania autorského práva pod¾a § 283 ods. 1, písm. a), písm. d) Trestného zákona sa
+	dopustí ten, kto neoprávnene zasiahne do zákonom chránenıch práv k dielu, umeleckému vıkonu,
+	zvukovému záznamu alebo zvukovo-obrazovému záznamu, rozhlasovému vysielaniu alebo
+	televíznemu vysielaniu alebo databáze, spôsobí väèšiu škodu a èin spácha prostredníctvom
+	poèítaèového systému.
+	Z h¾adiska subjektívnej stránky sa vyaduje preukáza, e páchate¾ konal úmyselne.
+	V prejednávanom prípade je preukázané iba to, e osoba vystupujúca pod prezıvkou DoDo zverejnila
+	zoznam súborov, ktoré mohli obsahova zvukové, alebo zvukovo-obrazové záznamy diel chránenıch
+	autorskımi právami. Na zozname sa nachádzal aj súbor "50 Cent - 2003", obsahujúci hudobné skladby
+	- diela chránené autorskım zákonom, avšak tento bol vytvorenı (stiahnutı) dòa 16.12.2010. Keïe
+	vykonanım dokazovaním nebol stotonenı uívate¾ IP adresy technického koncového zariadenia ku
+	dòu 16.12.2010, je bezvıznamné zamıš¾a sa, èi páchate¾om konania uvedeného v obalobe mohol
+	by obalovanı.
+	Podstatnı je deò 23.2.2011, kedy ako uívate¾ dynamickej IP adresy pridelenej spoloènosou Slovak
+	Telekom, a.s. Bratislava bol stotonenı router patriaci D. R. - otcovi obalovaného. V tom èase sa v
+	zdie¾anej zloke malo nachádza 54,41 GB súborov s multimediálnym obsahom. Èi súbory uvedené v
+	zozname vytvoreného zo zdie¾anej zloky skutoène obsahovali aj diela chránené autorskımi právami
+	preukázané nebolo. Svedok O.. H. T. zároveò potvrdil, e uívate¾ s prezıvkou DoDo bol toho dòa
+	neaktívny, pretoe v zloke na zdie¾anie súborov urèenej programom StrongDC++ nedošlo k iadnemu
+	prenosu dát svedèiacich a teda aj k poskytovaniu diel chránenıch autorskımi právami.
+	Znaleckım dokazovaním bolo preukázané, e operaènı systém poèítaèa vydaného obalovanım, ani
+	bezdrôtovı router, prostredníctvom ktorého sa domácnos D. R. pripájala k internetu, neboli chránené
+	ani iadnym spôsobom zabezpeèené. Znamená to, e na internet sa mohol pripoji ktoko¾vek, kto bol
+	prostredníctvom svojho Wi-Fi zariadenia v dosahu spínaného routera. Ktoko¾vek sa teda mohol
+	trestného èinu uvedeného v obalobe dopusti.
+	Obalovanı spáchanie trestného èinu poprel. Èi sa alovaného skutku mohli dopusti aj iné osoby,
+	ktoré obalovanı oznaèil, nebolo predmetom dokazovania. Dôkazy svedèiace o tom, aby osoba
+	vystupujúca na Hub-e „ATLANTIS“ bola totoná s osobou obalovaného zistené neboli.
+	Pod¾a § 285 písm. c) Trestného poriadku súd oslobodí obalovaného spod obaloby, ak nebolo
+	dokázané, e skutok spáchal obalovanı.
+	Za danıch okolností nebolo preukázané, aby sa obalovanı dopustil skutku, zo spáchania ktorého bol
+	obalovanı. Preto bol súd povinnı pod¾a § 285 písm. c) Trestného poriadku obalovaného spod
+	obaloby oslobodi.
+	Keïe obalovanı bol spod obaloby oslobodenı, pod¾a § 288 ods. 3 Trestného poriadku súd odkázal
+	poškodeného s nárokom na náhradu škody na konanie o obèianskoprávnych veciach.
+
+	Pouèenie:
+
+
+	Proti rozsudku je prípustné odvolanie, ktoré mono poda do 15 dní od jeho oznámenia na Okresnom
+	súde Košice II. Oznámením rozsudku je jeho vyhlásenie v prítomnosti toho, komu treba rozsudok
+	doruèi. Ak sa rozsudok vyhlásil v neprítomnosti takejto osoby, oznámením je a doruèenie rozsudku.

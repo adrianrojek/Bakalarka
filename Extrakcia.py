@@ -161,6 +161,33 @@ def NajdiRozhodnutie(list):
             x = x + 1
 
 
+def VytvorLematizovanyDataset():
+    for file in os.listdir("dataset_json/"):
+        a_file = open("dataset_json/" + file, "r", encoding='utf-8')
+        dokument = Dokument(file)
+        json_object = json.load(a_file)
+        json_object["dokument_fulltext"] = dokument.naSlova_json()
+        novy_json = open("dataset_lemmatized/" + file + ".json", "w", encoding='utf-8')
+        json.dump(json_object, novy_json, ensure_ascii=False)
+
+
+def VytvorJsony():
+    schema = {"sud_guid": "","sud_typ": "", "sud_nazov": "", "guid": "", "sud_kraj": "","sud_okres": "", "oblast_pravnej_upravy": [], "podoblast_pravnej_upravy": [], "forma_rozhodnutia": "", "povaha_rozhodnutia": ["Zmeòujúce"], "nadpis_rozhodnutia": "", "spisova_znacka": "", "identifikacne_cislo_spisu": "", "sudca_guid": "", "sudca_meno": "", "sudca_meno_text": "", "odkazovane_predpisy": [], "dokument_nazov": "", "dokument_fulltext": "", "dokument_download_link": "", "datum_vydania_rozhodnutia": "", "odkazovane_predpisy_iri": "", "ecli": "", "vazby_na_eurlex": "", "vazby_na_eu_sudne_rozhodnutie": "", "vazby_na_sk_sudne_rozhodnutie": "", "index_timestamp": ""}
+    for file in os.listdir("dataset_txt/"):
+        json_dump = json.dumps(schema)
+        json_object = json.loads(json_dump)
+        a_file = open("dataset_txt/" + file, "r", encoding='windows-1250')
+        dokument = Dokument(file)
+        json_object["sud_nazov"] = nazov_sudu.extrahuj_txt(dokument)
+        json_object["spisova_znacka"] = znacka.extrahuj_txt(dokument)
+        fulltext=""
+        for line in a_file:
+            fulltext=fulltext+line+"\n"
+        json_object["dokument_fulltext"] = fulltext
+        novy_json = open("dataset_test/" + file[: - 4] + ".json", "w", encoding='utf-8')
+        json.dump(json_object, novy_json, ensure_ascii=False)
+
+
 def Extrakcia(subor):
     pocitadloPrePerf = 14
     dokument = Dokument(subor)

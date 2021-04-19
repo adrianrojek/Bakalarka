@@ -5,7 +5,7 @@ class znacka(AttributeExtractor):
         pass
 
     def extrahuj_txt(self, Dokument):
-     array = Dokument.hlavicka()
+     array = Dokument.naSlova_txt()
      i = 0
      while i < len(array):
          if array[i] == "značka:":

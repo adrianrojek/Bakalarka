@@ -1,0 +1,67 @@
+Súd:                                  Okresnı súd Zvolen
+  Spisová znaèka:                       1T/124/2014
+  Identifikaèné èíslo súdneho spisu:    6714010601
+  Dátum vydania rozhodnutia:            03.09.2014
+  Meno a priezvisko sudcu, VSÚ:         JUDr. Mariana Philadelphyová
+  ECLI:                                 ECLI:SK:OSZV:2014:6714010601.1
+  Oblasti právnej úpravy:               Trestné právo - Hospodárske trestné èiny
+  Povaha rozhodnutia:                   Prvostupòové nenapadnuté opravnımi prostriedkami
+
+
+	TRESTNİ ROZKAZ V MENE SLOVENSKEJ REPUBLIKY
+
+	Okresnı súd vo Zvolene vydáva pod¾a § 353 ods. 1 Tr. poriadku
+
+	r o z h o d o l :
+
+	Obvinenı D. Š., nar. 24.08.1986 v Èeskej republike, trvale bytom E. T. XX,
+	F..È.. O. Q.,
+
+	je v i n n ı,
+	e
+	ako uívate¾ P2P sietí pod prezıvkou „G.“ v období od 21.18 hod. dòa 02.11.2012 do 20.11. hod. dòa
+	16.03.2013 prostredníctvom svojho osobného poèítaèa z rodinného domu s E. T. XX, bez súhlasu
+	oprávnenıch osôb, vo¾ne zdie¾al a rozširoval cez internetové pripojenie a hardwarové zariadenia,
+	konkrétne wifi antény znaky U. G.5, s preddefinovanou MAC adresou 00:15:6D:7C:0E:0F a pridelenıch
+	dynamickıch IP adries internetovej siete èísel 46.228.209.130, 46.228.210.23, 46.228.210.33,
+	46.228.210.82, z HUB serveru svojho poèítaèa s názvom PePeK.CzDC.org:4861,
+	dchub://allhub.net.411 pre pouívate¾ov programu DC/++, hudobné súbory v objeme 63,46 GB dát
+	hudby vo formáte mp3, v èom obsiahol 10443 súborov, èo predstavuje 696 rôznych komerènıch
+	albumov - autorskoprávne chránenıch hudobnıch titulov, hudobnıch a produkènıch spoloèností Z. G.,
+	Y. È. E..A..O.., E., E. G. Y. V. A., s.r.o., ktoré na základe splnomocnení zatupuje È. U. E. G. W. T. D.,
+	so sídlom Praha 2, E. XX, B.: XXXXXXXX, teda v rozpore s ustanovením § 18 a § 24 Zákona o
+	autorskom práve a právach súvisiacich s autorskım právom è. 618/2003 Zbierky zákonov v platnom
+	znení v nadväznosti na Smernicu Rady a Európskeho parlamentu èíslo 2001/29/ES dal k dispozícii
+	inım uívate¾om internetu chránené hudobné diela bez súhlasu oprávnenıch osôb, èím oprávnenım
+	osobám v zastúpení Èeská národní skupina G. W. T. D., so sídlom Praha 2, Slavíkova 15, B.:
+	XXXXXXXX spôsobil škodu vo vıške 6.906,- €
+
+	t e d a
+
+	neoprávnene zasiahol do zákonom chránenıch práv k dielu a spôsobil tak väèšiu škodu a èin spáchal
+	prostredníctvom poèítaèového systému,
+
+	è í m s p á c h a l
+	preèin porušovania autorského práva pod¾a § 283 ods. 1, ods. 2 písm. a/, písm. d/ Tr. zákona
+
+	Z a t o s a o d s u d z u j e
+
+	Pod¾a § 283 ods. 2 Tr. zákona s pouitím § 38 ods. 2, ods. 3, ods. 8 Tr. zákona, § 36 písm. j/, písm. l/
+	Tr. Zákona, § 46 Tr. zákona na trest odòatia slobody vo vımere 6 /šes/ mesiacov.
+	Pod¾a § 49 ods. 1 písm. a/ Tr. zákona, súd vıkon trestu podmieneène odkladá.
+	Pod¾a § 50 ods. 1 Tr. zákona, súd urèuje skúšobnú dobu v trvaní 12 /dvanás/ mesiacov.
+	Pod¾a § 287 ods. 1 Tr. poriadku súd obvinenému ukladá povinnos nahradi poškodenému Èeskej
+	národnej skupine G. W. T. D., D. X, E. XX, B.: XXXXXXXX, škodu vo vıške 6.906,- €.
+
+	Pouèenie:
+
+
+	Proti trestnému rozkazu môe poda odpor do 8 (osem) dní odo dòa jeho doruèenia obvinenı, osoby,
+	ktoré sú oprávnené poda v jeho prospech odvolanie, prokurátor a poškodenı, pokia¾ mu bola priznaná
+	náhrada škody. Podaním odporu sa trestnı rozkaz ruší a vo veci sa nariadi hlavné pojednávanie.
+	Poškodenı môe poda odpor proti vıroku o náhrade škody, ktorım bola priznaná náhrada škody.
+	Poškodenı môe vzia súhlas s trestnım stíhaním pre preèiny uvedené v § 211 Trestného poriadku
+	spä a dovtedy, kım sa trestnı rozkaz nedoruèí niektorej z osôb uvedenıch v ods. 1 § 355 Trestného
+	poriadku.
+
+	Ak sa v urèenej lehote nepodá odpor, stane sa trestnı rozkaz právoplatnım a vykonate¾nım.

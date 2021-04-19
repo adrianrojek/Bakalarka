@@ -47,11 +47,11 @@ class Dokument:
         pass
 
     def naSlova_json(self):
-        subor = open("dataset_json/"+self.subor, encoding='utf-8')
+        subor = open("dataset_test/"+self.subor, encoding='utf-8')
         json_objekt=json.load(subor)
         fulltext=json_objekt["dokument_fulltext"]
         slova = list()
-        pole =(re.split('[, . \n " -  :]', fulltext))
+        pole =(re.split('[, ( ) . \n " -  :]', fulltext))
         for x in pole:
             if x != '':
                 slova.append(x.strip())

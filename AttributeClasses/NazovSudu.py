@@ -6,7 +6,7 @@ class nazov_sudu(AttributeExtractor):
         pass
 
     def extrahuj_txt(self, Dokument):
-     array = Dokument.hlavicka()
+     array = Dokument.naSlova_txt()
      i = 0
      nazov_sudu = ""
      while i < len(array):

@@ -1,0 +1,164 @@
+
+
+  Súd:                                  Okresnı súd Košice II
+  Spisová znaèka:                       6T/32/2013
+  Identifikaèné èíslo súdneho spisu:    7213010495
+  Dátum vydania rozhodnutia:            09.09.2014
+  Meno a priezvisko sudcu, VSÚ:         JUDr Ján Lokša
+  ECLI:                                 ECLI:SK:OSKE2:2014:7213010495.2
+  Oblasti právnej úpravy:               Trestné právo - Hospodárske trestné èiny
+  Povaha rozhodnutia:                   Prvostupòové nenapadnuté opravnımi prostriedkami
+
+
+	ROZSUDOK V MENE SLOVENSKEJ REPUBLIKY
+
+	Okresnı súd Košice II, samosudcom JUDr. Jánom Lokšom, na hlavnom pojednávaní konanom dòa
+	9.9.2014, takto
+
+	r o z h o d o l :
+
+	Pod¾a § 285 písm. c) Trestného poriadku oslobodzuje obalovaného V. K., nar. XX.X.XXXX v K., trvale
+	bytom K., ul. W. è. XXA, spod obaloby prokurátora Okresnej prokuratúry Košice II sp. zn. 1Pv
+	685/2011 - 14 zo dòa 12.3.2013, pre skutok právne kvalifikovanı ako pre preèin porušovania
+	autorského práva pod¾a § 283 ods. 1, ods. 2 písm. a), písm. d) Trestného zákona, ktorého sa mal
+	dopusti na tom skutkovom základe,
+	 e
+	v dobe od 11.3.2011 do 8.8.2011 v Košiciach a inde, ako uívate¾ P2P siete vystupujúci pod prezıvkou
+	"V." zo svojho poèítaèa s IP adresou XX.XX.XX.XXX a IP adresou XX.XX.XX.XXX prostredníctvom
+	uzlov „Best of all hubs“ a „A New Star“ ponúkol viac ne 1210 GB dát, z toho najmenej 147 GB tvorili
+	chránené hudobné súbory, ku ktorım vlastnia oprávnenie vırobcovia zvukovıch záznamov a sú èlenmi
+	H. a sú touto organizáciou zastupované, ktorım takto spôsobil škodu vo vıške 17.025 Eur;
+	- pretoe nebolo dokázané, e skutok spáchal obalovanı.
+
+	Pod¾a § 288 ods. 3 Trestného poriadku súd odkazuje H. N. V. H. so sídlom na K. 7, W., H. republika s
+	uplatnenım nárokom na náhradu škody na konanie o obèianskoprávnych veciach.
+
+	o d ô v o d n e n i e :
+
+	Hlavné pojednávanie bolo na iados obalovaného vykonané v jeho neprítomnosti. Súd vykonal na
+	hlavnom pojednávaní dokazovanie, preèítaním zápisnice o vıpovedi obvineného z prípravného
+	konania, vısluchom splnomocneného zástupcu poškodeného, vısluchom znalca, preèítaním
+	znaleckıch posudkov a listinnıch dôkazov.
+	Obalovanı v prípravnom konaní nevypovedal a spáchanie trestného èinu poprel. Prostredníctvom
+	obhajkyne sa vyjadril, e nebol ako páchate¾ trestného èinu jednoznaène identifikovanı.
+	K vıpovedi splnomocneného zástupcu poškodenej spoloènosti sa vyaduje uvies, e sa zároveò jedná
+	aj o osobu, ktorá bola poškodenou spoloènosou splnomocnená na získavanie informácii o nelegálnom
+	šírení hudobnıch a obrazovıch diel prostredníctvom Internetu.
+	Za obdobie, kedy sledoval osobu vystupujúcu pod prezıvkou V. bolo zistené, e táto ponúkla
+	prostredníctvom uzlov „Best of all hubs“ a „A New Star“ viac ne 1,21 TB dát s obsahom chráneného
+	multimediálneho obsahu. Osobu obalovaného sa mu stotoni nepodarilo, avšak bola zistená jeho IP
+	adresa a poskytovate¾ internetovıch sluieb, ktorım bol Slovak Telecom, a.s. Bratislava. Na zdie¾anie
+	táto osoba ponúkala dáta, ktorıch celı zoznam (è.l. 67) skopíroval na CD nosiè, ktorı tvorí prílohu
+	trestného oznámenia. Na potvrdenie, e na poèítaèi páchate¾a sa nachádzal multimediálny obsah
+	chránenı autorskım zákonom, bol album skupiny Depeche Mode, ktorı si svedok stiahol
+	prostredníctvom programu DC++, (è.l. 68). Èo bolo skutoènım obsahom inıch súborov urèenıch na
+	zdie¾anie, svedok J.. W. A. konkrétne poznatky nemal.
+	Mapovaním topológie internetovej siete zistil, e IP adresa zariadenia osoby vystupujúcej pod
+	prezıvkou "." (príloha è. 3 trestného oznámenia, viï è.l. 70) sa nachádza v iari nad Hronom, èo sa
+	neskôr ukázalo ako chybné. Pod¾a jeho zistení si poskytovatelia IP adresy kryjú štruktúru topológie
+	uívate¾ov poèítaèovıch sietí a preto úspešnos zistenia takejto adresy sa pohybuje len okolo 70 - 80
+	%.
+
+	Škodu predbene vyèíslil na podklade hodnoty multimediálneho obsahu za predpokladu, e tento by bol
+	distribuovanı na CD alebo DVD nosièoch. K tomu, ako bola vyèíslená a špecifikovaná škoda
+	spôsobená trestnım èinom svedok J.. W. A. uviedol, e objem zdie¾anıch multimediálnych dát bol
+	vynásobenı èiastkou 2.800 Kè za 1 GB zdie¾anıch dát. (viï aj špecifikáciu škody na è.l. 71) V tomto
+	prípade sa jedná o predbené vyèíslenie škody na základe vlastnıch zistení.
+	Odborné vyjadrenie s koneènım vyèíslením škody by mohol poškodenı predloi a po zoznámení sa s
+	vısledkami expertného skúmania zabezpeèeného v prejednávanom prípade, (ktoré vykonané nebolo).
+	Presnú vıšku škody by poškodenı vedel urèi iba po špecifikácii titulov, ktoré preukázate¾ne boli
+	neoprávnene šírené. Keïe poškodenému neboli predloené závery znaleckého skúmania, vıška
+	škody uvedená v trestnom oznámení v podstate riadne doloená nebola. V prejednávanom prípade by
+	poškodenı vedel stanovi iba škodu spôsobenú stiahnutím albumu skupiny Depeche Mode.
+	Svedok potvrdil, e existujúca platná právna úprava ako v ÈR aj na SR neumoòuje iadny postup proti
+	prevádzkovate¾om uzlov, akımi sú „Best of all hubs“ a „A New Star“, na ktorıch sa ponúkajú
+	bezodplatne hudobné a filmové súbory inım osobám, pretoe všetky doposia¾ známe systémy boli
+	prezentované ako programy umoòujúcim archiváciu a zdie¾anie dát. A ïalším vıvojom boli tieto
+	systémy zneuité k nelegálnemu šíreniu multimediálneho obsahu. Pokia¾ uívate¾ internetu vyuije
+	takıto systém a získa kópiu chráneného diela, je to v súlade so zákonom, nesmie ju však šíri ïalej.
+	Na podklade podnetu poškodeného, uznesením povereného príslušníka OO PZ iar nad Hronom bolo
+	dòa 21.9.2011 zaèaté trestné stíhanie vo veci. Na podklade jeho doiadania bolo zistené, e IP adresy
+	XX.XX.XX.XXX a XX.XX.XX.XXX boli (zrejme 11.3.2011 a 8.8.2011) pridelené poskytovate¾om
+	internetovıch sluieb - spoloènosou Slovak Telekom, a.s. Bratislava, V. K. (s uvedením jeho rodného
+	èísla), bytom K., ul. W. è. XX/A. (è.l. XX) Preto podnet na trestné stíhanie bol odstúpenı OO PZ Košice
+	- Západ. V. K. vydal policajnım orgánom dòa 25.10.2011 tri pevné disky zo svojho poèítaèa (viï.
+	Zápisnica o vydaní veci z è.l. 56).
+	Tieto boli predloené na expertízne skúmanie znalcom Odboru prírodovedného skúmania a analız,
+	KEÚ PZ v Bratislave, ktorí dòa 25.9.2012 vyhotovili znaleckı posudok. Z jeho záverov súd zistil, e na
+	podklade analızy predloenıch pevnıch diskov nie je moné zisti, akou IP adresou sa poèítaè
+	obalovaného identifikoval v sieti INTERNET v inkriminovanom èase. Operaènı systém poèítaèa
+	obalovaného nebol chránenı prístupovım heslom. Programy umoòujúce zdie¾a súbory v rámci P2P
+	siete boli nainštalované a 22.9.2011, teda po spáchaní skutku kladeného obalovanému za vinu. V
+	doplnenom znaleckom posudku zo dòa 28.1.2013 znalci uviedli, e pouívate¾ vystupujúci pod
+	prezıvkou "V." zdie¾al blišie nezistené dáta. Z toho dôvodu nie je moné potvrdi ani vylúèi zdie¾anie
+	zvukovıch súborov predloenıch na porovnávacom materiály (pozn.: CD nosièi vyhotoveného
+	poškodenım). Stotonenie osoby vystupujúcej pod prezıvkou "V." neprináleí expertíznemu skúmaniu
+	z odvetvia kriminalistickej informatiky. V. K. bol obvinenı a uznesením vydanım dòa 2.11.2011.
+	Znalec poverenı prednesom znaleckého posudku J. na hlavnom pojednávaní uviedol, e v registroch
+	operaèného systému Windows 7 Ultimate (na jednom z troch pevnıch diskov predloenıch
+	obalovanım) bola zistená IP adresa 192.168.1.10. Nejde však o IP adresu, ktorou sa identifikoval
+	poèítaè v sieti INTERNET. Ide o internú adresu IP, ktorú poèítaèu pride¾uje router alebo smerovaè.
+	Predpokladal, e IP adresu, s ktorou sa pripájal k internetu, orgánom èinnım v prípravnom konaní
+	oznámil poskytovate¾ internetovıch sluieb, èo však nebolo predmetom jeho znaleckého skúmania.
+
+	Na predloenıch pevnıch diskoch boli zaistené multimediálne súbory, avšak k ich obsahu sa znalec
+	vyjadri nevedel. Iba pod¾a prípony súborov usúdil, e sa jednalo o zvukové alebo zvukovo-obrazové
+	súbory. Nevedel urèi, èi súbory obsahovali záznamy chránené autorskım zákonom. Znalec zadováil
+	iba zoznam takıch súborov, ktoré neprezeral, pretoe takúto úlohu nemal.
+	Znalec zároveò uviedol, e zo zaistenıch dôkazov sa nedá urèi, èi osoba vystupujúca pod prezıvkou
+	"V." bol skutoène V. K.. Rovnako sa nedá zisti, ktorá osoba program DC++ umoòujúci šírenie
+	multimediálneho obsahu nainštalovala do poèítaèa, z ktorého mal k dispozícii pevnı disk. Prístup do
+	poèítaèa nebol zabezpeèenı iadnym heslom, preto v tomto poèítaèi mohol ktoko¾vek, èoko¾vek
+	inštalova. K programu DC++ znalec uviedol, e nie je potrebné, aby bol niekto fyzicky prítomnı pri
+	poèítaèi s úmyslom poskytova inému súbory s multimediálnym obsahom. Je však potrebné, aby bol
+	poèítaè zapnutı a pripojenı k elektrickej energii. Poèítaè mohol zapnú ktoko¾vek. Vtedy dochádzalo k
+	tomu, e sa aktivoval program DC++, ktorı umonil zdie¾anie multimediálnych súborov. Znalec sa
+	nevedel vyjadri, akım spôsobom bol zabezpeèenı prístup do siete INTERNET prostredníctvom
+	routera, keïe tento mu predloenı nebol.
+	Po vykonaní všetkıch navrhovanıch dôkazov prokurátor navrhol, aby súd u obalovaného uznal skutok
+	aj vinu pod¾a obaloby a obalovanému uloil podmieneènı trest odòatia slobody, s poukazom na
+	pokyn Okresnej prokurátorky Košice II.
+	Obhajkyòa v závereènej reèi navrhla, aby súd oslobodil obalovaného spod obaloby, keïe nebolo
+	preukázané, e obalovanı spáchal skutok, ktorı mu je kladenı za vinu.
+	Pod¾a informácii od obalovaného, tento bol od 24.5.2011 do 3.6.2011 v Anglicku èo obhajoba doloila
+	listinnımi dôkazmi (kópiami leteniek a palubnıch lístkov). Namietala, e vykonanım dokazovaním
+	nebolo preukázané, aké multimediálne súbory boli skutoène zdie¾ané v rozhodujúcom období a e V. K.
+	nebol stotonenı s uívate¾om P2P siete, vystupujúcim pod prezıvkou "V.".
+	Obhajoba poukázala na vıpoveï zástupcu poškodenej organizácie, ktorı vo svojej vıpovedi pred
+	súdom nevedel špecifikova vıšku spôsobenej škody.
+	Po vyhodnotení vykonanıch dôkazov súd dospel k záveru, e nebolo bez akıchko¾vek pochybností
+	preukázané, e V. K. spáchal skutok, z ktorého bol obalovanı.
+	Preèinu porušovania autorského práva pod¾a § 283 ods. 1, písm. a), písm. d) Trestného zákona sa
+	dopustí ten, kto neoprávnene zasiahne do zákonom chránenıch práv k dielu, umeleckému vıkonu,
+	zvukovému záznamu alebo zvukovo-obrazovému záznamu, rozhlasovému vysielaniu alebo
+	televíznemu vysielaniu alebo databáze, spôsobí väèšiu škodu a èin spácha prostredníctvom
+	poèítaèového systému.
+	Z h¾adiska subjektívnej stránky sa vyaduje preukáza, e páchate¾ konal úmyselne.
+	V prejednávanom prípade je preukázané iba to, e osoba vystupujúca pod prezıvkou "V." zverejnila
+	zoznam súborov, ktoré mohli obsahova zvukové, alebo zvukovo-obrazové záznamy diel chránenıch
+	autorskımi právami. Na zozname sa nachádzal aj album skupiny "Depeche Mode", obsahujúci hudobné
+	skladby - diela chránené autorskım zákonom, ktorı bol poškodenım vytvorenı (stiahnutı) dòa
+	11.3.2011. Nebol však zaistenı jedinı dôkaz, ktorı by nasvedèoval, e obalovanı je skutoène osobou
+	vystupujúcou pod prezıvkou "V.".
+	Znaleckım dokazovaním bolo preukázané, e operaènı systém poèítaèa obalovaného nebol
+	chránenı, ani iadnym spôsobom zabezpeèenı. Taktie sa nepreukázalo, akım spôsobom bol
+	zabezpeèenı router, cez ktorı sa jeho poèítaè pripájal k internetu. Nebolo preukázané, èi všetky
+	multimediálne súbory uvedené na zozname poskytnutom zástupcom poškodenej spoloènosti
+	obsahovali diela chránené autorskım zákonom.
+	Obalovanı spáchanie trestného èinu poprel. Dokazovanie, èi sa alovaného skutku mohli dopusti aj
+	iné osoby, by bolo nad rámec podanej obaloby.
+	Pod¾a § 285 písm. c) Trestného poriadku súd oslobodí obalovaného spod obaloby, ak nebolo
+	dokázané, e skutok spáchal obalovanı.
+	Za danıch okolností nebolo preukázané, aby sa obalovanı dopustil skutku, zo spáchania ktorého bol
+	obalovanı. Preto bol súd povinnı pod¾a § 285 písm. c) Trestného poriadku obalovaného spod
+	obaloby oslobodi.
+	Keïe obalovanı bol spod obaloby oslobodenı, pod¾a § 288 ods. 3 Trestného poriadku súd odkázal
+	poškodeného s nárokom na náhradu škody na konanie o obèianskoprávnych veciach.
+
+	Pouèenie:
+
+
+	Proti rozsudku je prípustné odvolanie, ktoré mono poda do 15 dní od
+	jeho oznámenia na Okresnom súde Košice II. Oznámením rozsudku je jeho vyhlásenie v prítomnosti
+	toho, komu treba rozsudok doruèi. Ak sa rozsudok vyhlásil v neprítomnosti takejto osoby, oznámením
+	je a doruèenie rozsudku.
