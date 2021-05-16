@@ -23,6 +23,7 @@ import numpy as np
 import os
 import json
 from Dokument import Dokument
+from Tvaroslovnik import get_lemma
 
 mycursor = mysqlconnector.mydb.cursor()
 
@@ -44,10 +45,15 @@ vysluch_svedka = vysluch_svedka()
 vysluch_strany = vysluch_strany()
 
 subory_json = []
+subory_txt = []
 
 for file in os.listdir("dataset_json"):
     if file.endswith(".json"):
         subory_json.append(file)
+
+for file in os.listdir("dataset_txt"):
+    if file.endswith(".txt"):
+        subory_txt.append(file)
 
 perf_measure = {"vysluch_strany": {'TP': 0, 'TN': 0, 'FP': 0, 'FN': 0},
                 "vysluch_svedka": {'TP': 0, 'TN': 0, 'FP': 0, 'FN': 0},
@@ -121,20 +127,20 @@ extraction_success["zaciatok_konania"] = 0
 extraction_success["koniec_konania"] = 0
 extraction_success["typ_sudu"] = 0
 extraction_success["typ_konania"] = 0
-extraction_success["casova_peciatka"] = 0
-extraction_success["pridelenie_ip"] = 0
-extraction_success["specifikacia_zariadenia"] = 0
-extraction_success["vztah_osoby_a_zariadenia"] = 0
-extraction_success["anonymizacia_ip_adresy"] = 0
-extraction_success["anonymizacia_osobnych_udajov"] = 0
-extraction_success["anonymizacia_online_identifikatorov"] = 0
-extraction_success["vysluch_strany"] = 0
-extraction_success["vysluch_svedka"] = 0
-extraction_success["listinne_dokazy"] = 0
-extraction_success["vecne_dokazy"] = 0
-extraction_success["odborne_vyjadrenie"] = 0
-extraction_success["znalecke_dokazovanie"] = 0
-extraction_success["rozhodnutie"] = 0
+#extraction_success["casova_peciatka"] = 0
+#extraction_success["pridelenie_ip"] = 0
+#extraction_success["specifikacia_zariadenia"] = 0
+#extraction_success["vztah_osoby_a_zariadenia"] = 0
+#extraction_success["anonymizacia_ip_adresy"] = 0
+#extraction_success["anonymizacia_osobnych_udajov"] = 0
+#extraction_success["anonymizacia_online_identifikatorov"] = 0
+#extraction_success["vysluch_strany"] = 0
+#extraction_success["vysluch_svedka"] = 0
+#extraction_success["listinne_dokazy"] = 0
+#extraction_success["vecne_dokazy"] = 0
+#extraction_success["odborne_vyjadrenie"] = 0
+#extraction_success["znalecke_dokazovanie"] = 0
+#extraction_success["rozhodnutie"] = 0
 
 
 def NajdiRozhodnutie(list):
@@ -162,21 +168,56 @@ def NajdiRozhodnutie(list):
 
 
 def VytvorLematizovanyDataset():
-    for file in os.listdir("dataset_json/"):
-        a_file = open("dataset_json/" + file, "r", encoding='utf-8')
+    for file in os.listdir("dataset_test/"):
+        a_file = open("dataset_test/" + file, "r", encoding='utf-8')
         dokument = Dokument(file)
         json_object = json.load(a_file)
-        json_object["dokument_fulltext"] = dokument.naSlova_json()
-        novy_json = open("dataset_lemmatized/" + file + ".json", "w", encoding='utf-8')
+        array=dokument.naSlova_json()
+        list = array.tolist()
+        lematizovany_list=[]
+        for x in list:
+            lematizovany_list.append(get_lemma(x))
+        y = {"dokument_fulltext":lematizovany_list}
+        json_object.update(y)
+        novy_json = open("dataset_lemmatized/" + file, "w", encoding='utf-8')
         json.dump(json_object, novy_json, ensure_ascii=False)
 
 
 def VytvorJsony():
-    schema = {"sud_guid": "","sud_typ": "", "sud_nazov": "", "guid": "", "sud_kraj": "","sud_okres": "", "oblast_pravnej_upravy": [], "podoblast_pravnej_upravy": [], "forma_rozhodnutia": "", "povaha_rozhodnutia": ["Zmeòujúce"], "nadpis_rozhodnutia": "", "spisova_znacka": "", "identifikacne_cislo_spisu": "", "sudca_guid": "", "sudca_meno": "", "sudca_meno_text": "", "odkazovane_predpisy": [], "dokument_nazov": "", "dokument_fulltext": "", "dokument_download_link": "", "datum_vydania_rozhodnutia": "", "odkazovane_predpisy_iri": "", "ecli": "", "vazby_na_eurlex": "", "vazby_na_eu_sudne_rozhodnutie": "", "vazby_na_sk_sudne_rozhodnutie": "", "index_timestamp": ""}
-    for file in os.listdir("dataset_txt/"):
+
+    schema = {"sud_guid": "",
+              "sud_typ": "",
+              "sud_nazov": "",
+              "guid": "",
+              "sud_kraj": "",
+              "sud_okres": "",
+              "oblast_pravnej_upravy": [],
+              "podoblast_pravnej_upravy": [],
+              "forma_rozhodnutia": "",
+              "povaha_rozhodnutia": [],
+              "nadpis_rozhodnutia": "",
+              "spisova_znacka": "",
+              "identifikacne_cislo_spisu": "",
+              "sudca_guid": "",
+              "sudca_meno": "",
+              "sudca_meno_text": "",
+              "odkazovane_predpisy": [],
+              "dokument_nazov": "",
+              "dokument_fulltext": "",
+              "dokument_download_link": "",
+              "datum_vydania_rozhodnutia": "",
+              "odkazovane_predpisy_iri": "",
+              "ecli": "",
+              "vazby_na_eurlex": "",
+              "vazby_na_eu_sudne_rozhodnutie": "",
+              "vazby_na_sk_sudne_rozhodnutie": "",
+              "index_timestamp": ""}
+
+
+    for file in os.listdir("dataset_chybajuce/"):
         json_dump = json.dumps(schema)
         json_object = json.loads(json_dump)
-        a_file = open("dataset_txt/" + file, "r", encoding='windows-1250')
+        a_file = open("dataset_chybajuce/" + file, "r", encoding='windows-1250')
         dokument = Dokument(file)
         json_object["sud_nazov"] = nazov_sudu.extrahuj_txt(dokument)
         json_object["spisova_znacka"] = znacka.extrahuj_txt(dokument)
@@ -199,24 +240,24 @@ def Extrakcia(subor):
     attribute_dictionary["koniec_konania"] = koniec_konania.extrahuj_json(dokument)
     attribute_dictionary["typ_sudu"] = typ_sudu.extrahuj_json(dokument)
     attribute_dictionary["typ_konania"] = typ_konania.extrahuj_json(dokument)
-    attribute_dictionary["casova_peciatka"] = ""
-    attribute_dictionary["pridelenie_ip"] = ""
-    attribute_dictionary["specifikacia_zariadenia"] = ""
-    attribute_dictionary["vztah_osoby_a_zariadenia"] = ""
-    attribute_dictionary["anonymizacia_ip_adresy"] = ""
-    attribute_dictionary["anonymizacia_osobnych_udajov"] = ""
-    attribute_dictionary["anonymizacia_online_identifikatorov"] = ""
-    attribute_dictionary["vysluch_strany"] = vysluch_strany.extrahuj_json(dokument)
-    attribute_dictionary["vysluch_svedka"] = vysluch_svedka.extrahuj_json(dokument)
-    attribute_dictionary["listinne_dokazy"] = listinne_dokazy.extrahuj_json(dokument)
-    attribute_dictionary["vecne_dokazy"] = ""
-    attribute_dictionary["odborne_vyjadrenie"] = odborne_vyjadrenie.extrahuj_json(dokument)
-    attribute_dictionary["znalecke_dokazovanie"] = znalecke_dokazovanie.extrahuj_json(dokument)
-    attribute_dictionary["rozhodnutie"] = ""
+    #attribute_dictionary["casova_peciatka"] = ""
+    #attribute_dictionary["pridelenie_ip"] = ""
+    #attribute_dictionary["specifikacia_zariadenia"] = ""
+    #attribute_dictionary["vztah_osoby_a_zariadenia"] = ""
+    #attribute_dictionary["anonymizacia_ip_adresy"] = ""
+    #attribute_dictionary["anonymizacia_osobnych_udajov"] = ""
+    #attribute_dictionary["anonymizacia_online_identifikatorov"] = ""
+    #attribute_dictionary["vysluch_strany"] = vysluch_strany.extrahuj_json(dokument)
+    #attribute_dictionary["vysluch_svedka"] = vysluch_svedka.extrahuj_json(dokument)
+    #attribute_dictionary["listinne_dokazy"] = listinne_dokazy.extrahuj_json(dokument)
+    #attribute_dictionary["vecne_dokazy"] = ""
+    #attribute_dictionary["odborne_vyjadrenie"] = odborne_vyjadrenie.extrahuj_json(dokument)
+    #attribute_dictionary["znalecke_dokazovanie"] = znalecke_dokazovanie.extrahuj_json(dokument)
+    #attribute_dictionary["rozhodnutie"] = ""
     print("Vystup: ")
     print(attribute_dictionary)
     kontrola = Kontrola(chybne)
-    Vykonnost(kontrola, pocitadloPrePerf)
+    #Vykonnost(kontrola, pocitadloPrePerf)
 
 
 def Kontrola(pole):
@@ -227,7 +268,7 @@ def Kontrola(pole):
     print(kontrola)
     pocitadloPrePole = 0
     for x in attribute_dictionary:
-        if str(attribute_dictionary[x]) == kontrola[pocitadloPrePole]:
+        if str(attribute_dictionary[x]) == kontrola[pocitadloPrePole].strip():
             extraction_success[x] = extraction_success[x] + 1
         else:
             pole.append(x)
@@ -256,3 +297,4 @@ def UspesnostAtributov():
         hodnota = extraction_success[x]
         extraction_success[x] = str(hodnota / len(subory_json) * 100) + "%"
     print(extraction_success)
+

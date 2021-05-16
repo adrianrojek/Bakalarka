@@ -1,5 +1,6 @@
 #!/usr/local/bin/python
 # coding: windows-1250
+import json
 import os
 import operator
 
@@ -154,95 +155,6 @@ def dict_difference(dict_a, dict_b):
     return temp_a
 
 
-def dict_difference(dict_a, dict_b):
-    temp_a = dict_a.copy()
-    temp_b = dict_b.copy()
-    all(map(temp_a.pop, temp_b))
-    return temp_a
 
 
-def slova(atribut, hodnota):
-    subory = []
-    for file in os.listdir("dataset_test"):
-        if file.endswith(".json"):
-            subory.append(file)
 
-    sql_expression = "SELECT subor FROM data WHERE " + atribut + " = " + str(hodnota) + ""
-    mycursor.execute(sql_expression)
-    myresult = mycursor.fetchall()
-    pole = np.asarray(myresult)
-    rozhodnutia = []
-    for x in pole:
-        if str(x)[2:][: - 2] + ".json" in subory:
-            rozhodnutia.append(str(x)[2:][: - 2] + ".json")
-    slova = {}
-    vyskyt = {}
-    normovane_slova = {}
-    normovane_vyskyt = {}
-    for p in rozhodnutia:
-        slovaVRozhodnuti = []
-        rozhodnutie = Dokument(p)
-        array = rozhodnutie.naSlova_json()
-        for x in array:
-            s = get_lemma(str(x))
-            if len(x) > 2:
-                if s in slova:
-                    slova[s] += 1
-                    if s not in slovaVRozhodnuti:
-                        slovaVRozhodnuti.append(s)
-                else:
-                    slova[s] = 1
-        for y in slovaVRozhodnuti:
-            if y in vyskyt:
-                vyskyt[y] += 1
-            else:
-                vyskyt[y] = 1
-    sorted_slova = dict(sorted(slova.items(), key=operator.itemgetter(1), reverse=True))
-    sorted_vyskyt = dict(sorted(vyskyt.items(), key=operator.itemgetter(1), reverse=True))
-
-    for x in sorted_vyskyt:
-        # podiel = sorted_vyskyt[x] / len(pole)
-        # if podiel > 0.5:
-        normovane_vyskyt[x] = 100*(sorted_vyskyt[x] / len(pole))
-
-    for x in sorted_slova:
-        if x in normovane_vyskyt:
-            normovane_slova[x] = sorted_slova[x] / len(pole)
-
-    return (normovane_slova, normovane_vyskyt)
-
-
-def bigramy(atribut, hodnota):
-    subory = []
-    for file in os.listdir("dataset_json"):
-        if file.endswith(".json"):
-            subory.append(file)
-    sql_expression = "SELECT subor FROM data WHERE " + atribut + " = " + str(hodnota) + ""
-    mycursor.execute(sql_expression)
-    myresult = mycursor.fetchall()
-    pole = np.asarray(myresult)
-    rozhodnutia = []
-
-    for x in pole:
-        if str(x)[2:][: - 2] + ".json" in subory:
-            rozhodnutia.append(str(x)[2:][: - 2] + ".json")
-    bigramy = {}
-    for p in rozhodnutia:
-
-        rozhodnutie = Dokument(p)
-        array = rozhodnutie.naSlova_json()
-        for x, _ in enumerate(array):
-            if x != len(array) - 1:
-                prve = get_lemma(str(array[x]))
-                druhe = get_lemma(str(array[x + 1]))
-                bigram = "" + prve + " " + druhe
-                if bigram in bigramy:
-                    bigramy[str(bigram)] += 1
-                else:
-                    bigramy[str(bigram)] = 1
-    sorted_d = dict(sorted(bigramy.items(), key=operator.itemgetter(1), reverse=True))
-    print(sorted_d)
-    return sorted_d
-
-# print(ngrams("datasetUTF8", 1)) # unigramy lematizaciou...ked chces bigramy daj dvojku ako druhy parameter
-# print(ngrams_without_lemmatization("datasetUTF8", 1)) # unigramy bez lematizacie

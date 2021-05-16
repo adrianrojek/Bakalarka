@@ -14,7 +14,7 @@ class Dokument:
         return objekt
 
     def naSlova_txt(self):
-        subor = open("dataset_txt/" + self.subor, encoding="cp1250")
+        subor = open("dataset_chybajuce/" + self.subor, encoding="cp1250")
         slova = list()
         for line in subor:
             array_line = np.asarray(line.split())
@@ -47,7 +47,7 @@ class Dokument:
         pass
 
     def naSlova_json(self):
-        subor = open("dataset_test/"+self.subor, encoding='utf-8')
+        subor = open("dataset_json/"+self.subor, encoding='utf-8')
         json_objekt=json.load(subor)
         fulltext=json_objekt["dokument_fulltext"]
         slova = list()
